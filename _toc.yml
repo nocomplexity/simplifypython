@@ -1,0 +1,61 @@
+format: jb-book
+root: introduction
+parts:
+  
+  
+  - caption: Professional coding 
+    chapters:
+    - file: whypp
+    - file: documentingcode
+    - file: codingstyle
+    - file: namingconventions
+      sections:
+      - file: variablesnames
+    - file: environments
+    - file: testing
+    - file: packaging
+    - file: security
+    - file: ppreferences
+
+  - caption: Python Basics
+    chapters:
+    - file: basics    
+    - file: variables
+    - file: dataTypes
+      sections:        
+        - file: data-types
+        - file: typeconversions
+        - file: indexing
+    - file: ifstatement
+    - file: forloops
+    - file: whileloops
+    - file: builtinfunctions
+    - file: fstrings
+    - file: decorators
+    - file: workingwithdirectories
+    - file: cheatsheet
+    - file: cheatsheet2
+    - file: pythontips    
+    - file: commonmistakes
+
+
+
+  - caption: Great References  
+    chapters:
+    - file: generatedfiles/overview
+      title: Overview    
+    - file: bookreferences.md                
+    - file: whylibraries    
+    - url: https://pyviz.org/overviews/index.html
+      title: Python visualization landscape
+    - file: companies
+    
+  
+
+  - caption: About
+    chapters:
+    - file: help
+    - file: open
+    - file: license
+    - file: about
+    
