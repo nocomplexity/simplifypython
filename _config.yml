@@ -42,10 +42,10 @@ sphinx:
     html_show_copyright: false
     html_last_updated_fmt: "" 
     html_theme_options:
-      repository_url: "https://gitlab.com/nocomplexity/securitysolutions"
+      repository_url: "https://github.com/nocomplexity/simplifypython"
       repository_branch: "master" 
-      use_repository_button: false
-      use_edit_page_button: false
+      use_repository_button: True
+      use_edit_page_button: True
       use_issues_button: True         
       logo:
            text: "<b>Simplify Python</b>"
