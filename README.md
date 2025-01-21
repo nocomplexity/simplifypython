@@ -37,7 +37,7 @@ This book is open source. Issues and pull requests are welcome.
 
 This publication is:
 
->(c) 2018-2025 BM-Support.org - [Maikel Mardjan](https://nocomplexity.com/) 
+>(c) 2018-2025 [BM-Support.org](https://www.bm-support.org/) - [Maikel Mardjan](https://nocomplexity.com/) 
 >This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Third-party product names may be the trademarks of their respective owners.
 
 See [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) for the full license text. 
