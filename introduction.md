@@ -12,7 +12,7 @@ The answers programs snippets you receive from LLM prompts are often not good en
 Programming is fundamentally about problem-solving. To solve problems effectively, you should use a variety of tools. Rarely can a problem be solved with software alone. So use real [Problem Solving Methods](https://www.bm-support.org/problem-solving-methods/) before creating a software program that only solves part of the problem.
 
 
-There are also numerous great Python [open access](https://book.the-turing-way.org/reproducible-research/open/open-access.html) [books and courses](books) available at no cost. 
+There are also numerous great Python [open access](https://book.the-turing-way.org/reproducible-research/open/open-access.html) [books and courses](bookreferences) available at no cost. 
 
 
 :::{admonition} Solving problems **should** be simple!
@@ -23,7 +23,7 @@ Almost every typical programming problem you can think of, is already solved wit
 :::
 
 
-I created this publication for myself. Despite the great [open access books](books) available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes a lot of effort. 
+I created this publication for myself. Despite the great [open access books](generatedfiles/overview) available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes a lot of effort. 
 
 ::::{grid} 2
 :class-container: text-center
