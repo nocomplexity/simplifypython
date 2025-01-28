@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://palletsprojects.com/ 
-{octicon}`telescope;1em;caption-text` **Pallets**
+{octicon}`hubot;1em;caption-text` **Pallets**
 ^^^
 Pallets is the open source community organization that develops and supports popular Python frameworks. 
 +++
@@ -18,7 +18,7 @@ Pallets is the open source community organization that develops and supports pop
 
 :::{grid-item-card}
 :link: https://jazzband.co/ 
-{octicon}`checklist;1em;caption-text` **Jazzband**
+{octicon}`thumbsup;1em;caption-text` **Jazzband**
 ^^^
 Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
 +++
@@ -38,7 +38,7 @@ A community supporting a language-agnostic, multi-platform package management ec
 
 :::{grid-item-card}
 :link: https://pydata.org/ 
-{octicon}`note;1em;caption-text` **PyData**
+{octicon}`eye;1em;caption-text` **PyData**
 ^^^
 PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 +++

@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://docs.python.org 
-{octicon}`package;1em;caption-text` **Official Python documentation**
+{octicon}`file;1em;caption-text` **Official Python documentation**
 ^^^
 The source for the official documentation. Always up-to-date.
 +++
@@ -18,7 +18,7 @@ The source for the official documentation. Always up-to-date.
 
 :::{grid-item-card}
 :link: https://docs.python.org/3/reference/index.html 
-{octicon}`tag;1em;caption-text` **The Python Language Reference**
+{octicon}`note;1em;caption-text` **The Python Language Reference**
 ^^^
 This reference manual describes the syntax and “core semantics” of the language.
 +++
@@ -28,7 +28,7 @@ This reference manual describes the syntax and “core semantics” of the langu
 
 :::{grid-item-card}
 :link: https://peps.python.org/ 
-{octicon}`project;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+{octicon}`megaphone;1em;caption-text` **Python Enhancement Proposals (PEPs)**
 ^^^
 This PEP contains the index of all Python Enhancement Proposals (PEPs)
 +++
@@ -48,7 +48,7 @@ A collection of tutorials and references to help you distribute and install Pyth
 
 :::{grid-item-card}
 :link: https://pip.pypa.io/en/stable/ 
-{octicon}`briefcase;1em;caption-text` **pip**
+{octicon}`eye;1em;caption-text` **pip**
 ^^^
 pip is the package installer for Python.
 +++

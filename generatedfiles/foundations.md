@@ -8,11 +8,21 @@
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`light-bulb;1em;caption-text` **NumFOCUS**
+{octicon}`zap;1em;caption-text` **NumFOCUS**
 ^^^
 NumFOCUS is to promote open practices in research, data, and scientific computing 
 +++
 [Read more or use this reference »](https://numfocus.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://www.pyopensci.org/python-package-guide/index.html 
+{octicon}`tools;1em;caption-text` **pyOpenSci**
+^^^
+Community that supports free and open Python tools for processing scientific data. 
++++
+[Read more or use this reference »](https://www.pyopensci.org/python-package-guide/index.html)
 :::
 
 
