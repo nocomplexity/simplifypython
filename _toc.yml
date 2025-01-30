@@ -33,6 +33,8 @@ parts:
     - file: builtinfunctions
     - file: fstrings
     - file: decorators
+      sections:        
+        - file: propertydecorator
     - file: workingwithdirectories
     - file: cheatsheet
     - file: cheatsheet2
