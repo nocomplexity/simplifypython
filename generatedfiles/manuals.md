@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://docs.conda.io/projects/conda/en/stable/ 
-{octicon}`checklist;1em;caption-text` **Conda Documentation**
+{octicon}`check-circle;1em;caption-text` **Conda Documentation**
 ^^^
 Conda's documentation! Conda provides package, dependency, and environment management for any language. 
 +++
@@ -28,7 +28,7 @@ Building and Distributing Packages with Setuptools. If you are not (yet) using H
 
 :::{grid-item-card}
 :link: https://mamba.readthedocs.io/en/latest/ 
-{octicon}`tools;1em;caption-text` **Mamba’s documentation**
+{octicon}`pencil;1em;caption-text` **Mamba’s documentation**
 ^^^
 Mamba is a fast, robust, and cross-platform package manage
 +++
@@ -38,7 +38,7 @@ Mamba is a fast, robust, and cross-platform package manage
 
 :::{grid-item-card}
 :link: https://docs.pex-tool.org/ 
-{octicon}`file;1em;caption-text` **pex**
+{octicon}`briefcase;1em;caption-text` **pex**
 ^^^
 A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
 +++
@@ -48,7 +48,7 @@ A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 
 :::{grid-item-card}
 :link: https://py-pkgs-cookiecutter.readthedocs.io/en/latest/ 
-{octicon}`project;1em;caption-text` **Py-Pkgs-Cookiecutter**
+{octicon}`telescope;1em;caption-text` **Py-Pkgs-Cookiecutter**
 ^^^
 py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Python package using poetry. It supplements the Python Packages book by Tomas Beuzen and Tiffany Timbers but can be used independently.
 +++

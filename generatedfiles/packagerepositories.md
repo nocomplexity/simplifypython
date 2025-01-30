@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://conda-forge.org/ 
-{octicon}`telescope;1em;caption-text` **conda-forge**
+{octicon}`book;1em;caption-text` **conda-forge**
 ^^^
 Community-led recipes, infrastructure and distributions for conda.
 +++
@@ -18,7 +18,7 @@ Community-led recipes, infrastructure and distributions for conda.
 
 :::{grid-item-card}
 :link: https://pypi.org/ 
-{octicon}`cross-reference;1em;caption-text` **Python packages**
+{octicon}`zap;1em;caption-text` **Python packages**
 ^^^
 The Python Package Index (PyPI) is the defacto standard repository of software for the Python programming language.
 +++

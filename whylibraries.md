@@ -40,7 +40,7 @@ This collection in this publication is a very opinionated selection. Core select
 ```
 
 
-```{include}  generatedfiles/htmlparsing.md
+```{include}  generatedfiles/parsing.md
 ```
 
 
