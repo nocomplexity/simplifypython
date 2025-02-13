@@ -50,3 +50,8 @@ This collection in this publication is a very opinionated selection. Core select
 
 ```{include}  generatedfiles/testing.md
 ```
+
+
+
+```{include}  generatedfiles/visualization.md
+```

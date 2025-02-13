@@ -23,44 +23,4 @@ Almost every typical programming problem you can think of, is already solved wit
 :::
 
 
-I created this publication for myself. Despite the great [open access books](generatedfiles/overview) available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes a lot of effort. 
-
-::::{grid} 2
-:class-container: text-center
-:gutter: 3
-
-:::{grid-item-card}
-:link: professionalprogramming
-:link-type: doc
-{octicon}`light-bulb;1em;caption-text` **Professional Programming**
-^^^
-Solid tips and references for professional Python use.
-
-+++
-[Learn more »](professionalprogramming)
-
-:::
-
-:::{grid-item-card}
-:link: basics
-:link-type: doc
-{octicon}`bell;1em;caption-text` **Python Basics**
-^^^
-The ultimate references for everything you refuse to remember.
-
-+++
-[Learn more »](basics)
-:::
-
-:::{grid-item-card}
-:link: generatedfiles/overview
-:link-type: doc
-{octicon}`book;1em;caption-text` **Essential Python References**
-^^^
-Quick overview to all the key references you need, but can not remember.
-
-+++
-[Learn more »](generatedfiles/overview)
-:::
-
-::::
+I created this publication for myself. Despite the great [open access books](generatedfiles/overview) available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes is [an art](https://nocomplexity.com/business/) and can take lot of effort. 

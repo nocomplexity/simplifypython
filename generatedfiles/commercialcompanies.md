@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://astral.sh/ 
-{octicon}`tag;1em;caption-text` **Astral**
+{octicon}`hubot;1em;caption-text` **Astral**
 ^^^
 Next-gen Python tooling
 +++
@@ -18,7 +18,7 @@ Next-gen Python tooling
 
 :::{grid-item-card}
 :link: https://www.anaconda.com/ 
-{octicon}`thumbsup;1em;caption-text` **Anaconda**
+{octicon}`checklist;1em;caption-text` **Anaconda**
 ^^^
 Anaconda sits at the center of the AI revolution. We provide data science tools, MLOps, and data & model management to empower our customers and community with AI capabilities to propel their projects forward.
 +++

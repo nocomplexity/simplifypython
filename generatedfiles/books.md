@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://pythonbook.org/ 
-{octicon}`tools;1em;caption-text` **Professional Python Programming**
+{octicon}`megaphone;1em;caption-text` **Professional Python Programming**
 ^^^
 Open access book that covers  topics that are important for a professional programmer. 
 +++
@@ -18,7 +18,7 @@ Open access book that covers  topics that are important for a professional progr
 
 :::{grid-item-card}
 :link: https://www.tomasbeuzen.com/python-programming-for-data-science/README.html 
-{octicon}`note;1em;caption-text` **Python Programming for Data Science**
+{octicon}`stack;1em;caption-text` **Python Programming for Data Science**
 ^^^
 Covers everything you need to know to start using Python for data science. 
 +++
@@ -38,7 +38,7 @@ Python Best Practices Guidebook.
 
 :::{grid-item-card}
 :link: https://book.pythontips.com/en/latest/index.html 
-{octicon}`smiley;1em;caption-text` **Intermediate Python**
+{octicon}`tag;1em;caption-text` **Intermediate Python**
 ^^^
 The topics which are discussed in this book open up your mind towards some nice corners of Python language. 
 +++
@@ -48,7 +48,7 @@ The topics which are discussed in this book open up your mind towards some nice 
 
 :::{grid-item-card}
 :link: https://runestone.academy/ns/books/published/fopp/index.html 
-{octicon}`pencil;1em;caption-text` **Foundations of Python Programming**
+{octicon}`thumbsup;1em;caption-text` **Foundations of Python Programming**
 ^^^
 This book is to teach you to understand and create computer programs in Python. With hands-on activities!
 +++
@@ -58,7 +58,7 @@ This book is to teach you to understand and create computer programs in Python. 
 
 :::{grid-item-card}
 :link: https://python-programming.quantecon.org/intro.html 
-{octicon}`light-bulb;1em;caption-text` **Python Programming for Economics and Finance**
+{octicon}`telescope;1em;caption-text` **Python Programming for Economics and Finance**
 ^^^
 Python for scientific computing, with a focus on economics and finance.
 +++
@@ -68,7 +68,7 @@ Python for scientific computing, with a focus on economics and finance.
 
 :::{grid-item-card}
 :link: https://wesmckinney.com/book/ 
-{octicon}`tag;1em;caption-text` **Python for Data Analysis, 3E**
+{octicon}`cross-reference;1em;caption-text` **Python for Data Analysis, 3E**
 ^^^
 This book is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python.
 +++
@@ -78,7 +78,7 @@ This book is concerned with the nuts and bolts of manipulating, processing, clea
 
 :::{grid-item-card}
 :link: https://jakevdp.github.io/PythonDataScienceHandbook/ 
-{octicon}`thumbsup;1em;caption-text` **Python Data Science Handbook**
+{octicon}`cross-reference;1em;caption-text` **Python Data Science Handbook**
 ^^^
 A book about doing data science with Python.
 +++
@@ -88,7 +88,7 @@ A book about doing data science with Python.
 
 :::{grid-item-card}
 :link: https://py-pkgs.org/welcome 
-{octicon}`checklist;1em;caption-text` **Python Packages**
+{octicon}`report;1em;caption-text` **Python Packages**
 ^^^
 Python Packages is an open source book that describes modern and efficient workflows for creating Python packages.
 +++
@@ -108,7 +108,7 @@ he goal of this book is to reconciliate Python programmers with OpenGL, providin
 
 :::{grid-item-card}
 :link: https://www.labri.fr/perso/nrougier/from-python-to-numpy/ 
-{octicon}`briefcase;1em;caption-text` **From Python to Numpy**
+{octicon}`file;1em;caption-text` **From Python to Numpy**
 ^^^
 The goal of this book is to explain advanced techniques for using Numpy.
 +++
@@ -118,7 +118,7 @@ The goal of this book is to explain advanced techniques for using Numpy.
 
 :::{grid-item-card}
 :link: https://jakevdp.github.io/WhirlwindTourOfPython/ 
-{octicon}`smiley;1em;caption-text` **A Whirlwind Tour of Python**
+{octicon}`zap;1em;caption-text` **A Whirlwind Tour of Python**
 ^^^
 A Whirlwind Tour of Python is a fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language. 
 +++
@@ -128,7 +128,7 @@ A Whirlwind Tour of Python is a fast-paced introduction to essential features of
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`light-bulb;1em;caption-text` **pyOpenSci Python Package Guide**
+{octicon}`pencil;1em;caption-text` **pyOpenSci Python Package Guide**
 ^^^
 Learn how to create a Python package from start to finish. Also great tutorials for writing test, documentation and more!
 +++
@@ -138,7 +138,7 @@ Learn how to create a Python package from start to finish. Also great tutorials 
 
 :::{grid-item-card}
 :link: https://developers.google.com/edu/python 
-{octicon}`eye;1em;caption-text` **Google's Python Class**
+{octicon}`package;1em;caption-text` **Google's Python Class**
 ^^^
 Free online course book for people with a little bit of programming experience who want to learn Python
 +++
@@ -148,7 +148,7 @@ Free online course book for people with a little bit of programming experience w
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`stack;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`book;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++

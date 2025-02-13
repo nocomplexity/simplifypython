@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://github.com/web2py/py4web 
-{octicon}`pencil;1em;caption-text` **PY4WEB**
+{octicon}`thumbsup;1em;caption-text` **PY4WEB**
 ^^^
 PY4WEB is a web framework for the rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework but much faster and slicker.
 +++
@@ -18,7 +18,7 @@ PY4WEB is a web framework for the rapid development of efficient database driven
 
 :::{grid-item-card}
 :link: https://github.com/lona-web-org/lona 
-{octicon}`file;1em;caption-text` **Lona**
+{octicon}`eye;1em;caption-text` **Lona**
 ^^^
 Write responsive web apps in full python 
 +++
@@ -28,7 +28,7 @@ Write responsive web apps in full python
 
 :::{grid-item-card}
 :link: https://github.com/posit-dev/py-shiny/ 
-{octicon}`note;1em;caption-text` **Shiny**
+{octicon}`file;1em;caption-text` **Shiny**
 ^^^
 Build fast, beautiful web applications in Python.
 +++
