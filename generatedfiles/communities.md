@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://palletsprojects.com/ 
-{octicon}`package;1em;caption-text` **Pallets**
+{octicon}`file;1em;caption-text` **Pallets**
 ^^^
 Pallets is the open source community organization that develops and supports popular Python frameworks. 
 +++
@@ -18,7 +18,7 @@ Pallets is the open source community organization that develops and supports pop
 
 :::{grid-item-card}
 :link: https://jazzband.co/ 
-{octicon}`check-circle;1em;caption-text` **Jazzband**
+{octicon}`briefcase;1em;caption-text` **Jazzband**
 ^^^
 Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
 +++
@@ -28,7 +28,7 @@ Jazzband is a collaborative community to share the responsibility of maintaining
 
 :::{grid-item-card}
 :link: https://conda.org/ 
-{octicon}`cross-reference;1em;caption-text` **Conda Community**
+{octicon}`report;1em;caption-text` **Conda Community**
 ^^^
 A community supporting a language-agnostic, multi-platform package management ecosystem for projects of any size and complexity.
 +++
@@ -38,7 +38,7 @@ A community supporting a language-agnostic, multi-platform package management ec
 
 :::{grid-item-card}
 :link: https://pydata.org/ 
-{octicon}`briefcase;1em;caption-text` **PyData**
+{octicon}`tag;1em;caption-text` **PyData**
 ^^^
 PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 +++
@@ -48,7 +48,7 @@ PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 
 :::{grid-item-card}
 :link: https://scientific-python.org 
-{octicon}`light-bulb;1em;caption-text` **The Scientific Python project**
+{octicon}`book;1em;caption-text` **The Scientific Python project**
 ^^^
 The scientific Python ecosystem is a loose federation of community-developed and -owned Python projects widely used in scientific research, technical computing, and data science. 
 +++

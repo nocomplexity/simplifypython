@@ -59,6 +59,7 @@ parts:
     chapters:
     - file: help
     - file: open
+    - file: sponsors
     - file: license
     - file: about
     

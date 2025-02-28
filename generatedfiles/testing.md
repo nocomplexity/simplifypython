@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://pytest.org/en/latest/ 
-{octicon}`report;1em;caption-text` **pytest**
+{octicon}`bookmark;1em;caption-text` **pytest**
 ^^^
 The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
 +++

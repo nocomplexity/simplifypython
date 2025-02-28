@@ -18,7 +18,7 @@ Declarative visualization library for Python. Its simple, friendly and consisten
 
 :::{grid-item-card}
 :link: https://lib.vizzuhq.com/latest/ 
-{octicon}`tools;1em;caption-text` **Vizzu**
+{octicon}`zap;1em;caption-text` **Vizzu**
 ^^^
 Vizzu is a free, open-source Javascript/C++ library utilizing a generic dataviz engine that generates many types of charts and seamlessly animates between them.
 +++
@@ -28,7 +28,7 @@ Vizzu is a free, open-source Javascript/C++ library utilizing a generic dataviz 
 
 :::{grid-item-card}
 :link: https://matplotlib.org/ 
-{octicon}`book;1em;caption-text` **Matplotlib**
+{octicon}`package;1em;caption-text` **Matplotlib**
 ^^^
 Matplotlib is the defacto Python library to be used for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. You can do everything with matplotlib. 
 +++

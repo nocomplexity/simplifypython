@@ -4,7 +4,7 @@ Having Python programming skills is essential for architects, engineers, and man
 
 Finding professionals with deep programming knowledge and solid experience is already challenging and will only get harder as AI, like LLM prompts, makes it easier for anyone to create software. While LLMs can generate answers, code, and snippets, a basic understanding of Python programming remains crucial in today’s world.
 
-I created this publication for myself. Despite the great open access books available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes a lot of effort.
+I created this publication for myself. Despite great open access books available, I missed a simple resources on Python that covers aspects behind the basics for people who are familiar with programming. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes a lot of effort.
 
 ## HELP - Share this publication!
 
