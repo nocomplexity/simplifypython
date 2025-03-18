@@ -7,18 +7,8 @@
 :gutter: 2
 
 :::{grid-item-card}
-:link: https://pandas.pydata.org/docs/development/contributing_docstring.html#pandas-docstring-guide 
-{octicon}`tools;1em;caption-text` **pandas docstring guide**
-^^^
-The pandas guide for documenting code. Solid reference.
-+++
-[Read more or use this reference »](https://pandas.pydata.org/docs/development/contributing_docstring.html#pandas-docstring-guide)
-:::
-
-
-:::{grid-item-card}
 :link: https://google.github.io/styleguide/pyguide.html 
-{octicon}`tools;1em;caption-text` **Google Python Style Guide**
+{octicon}`bookmark;1em;caption-text` **Google Python Style Guide**
 ^^^
 Python is the main dynamic language used at Google. This style guide is a list of dos and don’ts for Python programs.
 +++
@@ -27,68 +17,8 @@ Python is the main dynamic language used at Google. This style guide is a list o
 
 
 :::{grid-item-card}
-:link: https://peps.python.org/ 
-{octicon}`hubot;1em;caption-text` **Python Enhancement Proposals (PEPs)**
-^^^
-This PEP contains the index of all Python Enhancement Proposals (PEPs)
-+++
-[Read more or use this reference »](https://peps.python.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://pythonbook.org/ 
-{octicon}`thumbsup;1em;caption-text` **Professional Python Programming**
-^^^
-Open access book that covers  topics that are important for a professional programmer. 
-+++
-[Read more or use this reference »](https://pythonbook.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://pypistats.org/ 
-{octicon}`tools;1em;caption-text` **PyPI Stats**
-^^^
-The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
-+++
-[Read more or use this reference »](https://pypistats.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://docs.astral.sh/uv/ 
-{octicon}`bookmark;1em;caption-text` **uv**
-^^^
-An fast Python package and project manager, written in Rust.
-+++
-[Read more or use this reference »](https://docs.astral.sh/uv/)
-:::
-
-
-:::{grid-item-card}
-:link: https://packaging.python.org/en/latest/ 
-{octicon}`verified;1em;caption-text` **Python Packaging User Guide**
-^^^
-A collection of tutorials and references to help you distribute and install Python packages with modern tools.
-+++
-[Read more or use this reference »](https://packaging.python.org/en/latest/)
-:::
-
-
-:::{grid-item-card}
-:link: https://pip.pypa.io/en/stable/ 
-{octicon}`package;1em;caption-text` **pip**
-^^^
-pip is the package installer for Python.
-+++
-[Read more or use this reference »](https://pip.pypa.io/en/stable/)
-:::
-
-
-:::{grid-item-card}
 :link: https://hatch.pypa.io/latest/ 
-{octicon}`pencil;1em;caption-text` **Hatch**
+{octicon}`megaphone;1em;caption-text` **Hatch**
 ^^^
 Hatch is a modern, extensible Python project manager. 
 +++
@@ -97,38 +27,18 @@ Hatch is a modern, extensible Python project manager.
 
 
 :::{grid-item-card}
-:link: https://pipx.pypa.io/stable/ 
-{octicon}`bookmark;1em;caption-text` **pipx**
+:link: https://pythonbook.org/ 
+{octicon}`tag;1em;caption-text` **Professional Python Programming**
 ^^^
-Install and Run Python Applications in Isolated Environments
+Open access book that covers  topics that are important for a professional programmer. 
 +++
-[Read more or use this reference »](https://pipx.pypa.io/stable/)
-:::
-
-
-:::{grid-item-card}
-:link: https://docs.pex-tool.org/ 
-{octicon}`thumbsup;1em;caption-text` **pex**
-^^^
-A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
-+++
-[Read more or use this reference »](https://docs.pex-tool.org/)
-:::
-
-
-:::{grid-item-card}
-:link: https://www.mypy-lang.org/ 
-{octicon}`thumbsup;1em;caption-text` **mypy**
-^^^
-Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing.
-+++
-[Read more or use this reference »](https://www.mypy-lang.org/)
+[Read more or use this reference »](https://pythonbook.org/)
 :::
 
 
 :::{grid-item-card}
 :link: https://py-pkgs-cookiecutter.readthedocs.io/en/latest/ 
-{octicon}`heart;1em;caption-text` **Py-Pkgs-Cookiecutter**
+{octicon}`bookmark;1em;caption-text` **Py-Pkgs-Cookiecutter**
 ^^^
 py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Python package using poetry. It supplements the Python Packages book by Tomas Beuzen and Tiffany Timbers but can be used independently.
 +++
@@ -137,12 +47,102 @@ py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Py
 
 
 :::{grid-item-card}
+:link: https://pypistats.org/ 
+{octicon}`heart;1em;caption-text` **PyPI Stats**
+^^^
+The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
++++
+[Read more or use this reference »](https://pypistats.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://peps.python.org/ 
+{octicon}`stack;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+^^^
+This PEP contains the index of all Python Enhancement Proposals (PEPs)
++++
+[Read more or use this reference »](https://peps.python.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://packaging.python.org/en/latest/ 
+{octicon}`check-circle;1em;caption-text` **Python Packaging User Guide**
+^^^
+A collection of tutorials and references to help you distribute and install Python packages with modern tools.
++++
+[Read more or use this reference »](https://packaging.python.org/en/latest/)
+:::
+
+
+:::{grid-item-card}
+:link: https://www.mypy-lang.org/ 
+{octicon}`tools;1em;caption-text` **mypy**
+^^^
+Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing.
++++
+[Read more or use this reference »](https://www.mypy-lang.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://pandas.pydata.org/docs/development/contributing_docstring.html#pandas-docstring-guide 
+{octicon}`heart;1em;caption-text` **pandas docstring guide**
+^^^
+The pandas guide for documenting code. Solid reference.
++++
+[Read more or use this reference »](https://pandas.pydata.org/docs/development/contributing_docstring.html#pandas-docstring-guide)
+:::
+
+
+:::{grid-item-card}
+:link: https://docs.pex-tool.org/ 
+{octicon}`light-bulb;1em;caption-text` **pex**
+^^^
+A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
++++
+[Read more or use this reference »](https://docs.pex-tool.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://pip.pypa.io/en/stable/ 
+{octicon}`eye;1em;caption-text` **pip**
+^^^
+pip is the package installer for Python.
++++
+[Read more or use this reference »](https://pip.pypa.io/en/stable/)
+:::
+
+
+:::{grid-item-card}
+:link: https://pipx.pypa.io/stable/ 
+{octicon}`hubot;1em;caption-text` **pipx**
+^^^
+Install and Run Python Applications in Isolated Environments
++++
+[Read more or use this reference »](https://pipx.pypa.io/stable/)
+:::
+
+
+:::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`pencil;1em;caption-text` **pyOpenSci Python Package Guide**
+{octicon}`checklist;1em;caption-text` **pyOpenSci Python Package Guide**
 ^^^
 Learn how to create a Python package from start to finish. Also great tutorials for writing test, documentation and more!
 +++
 [Read more or use this reference »](https://www.pyopensci.org/python-package-guide/index.html)
+:::
+
+
+:::{grid-item-card}
+:link: https://docs.astral.sh/uv/ 
+{octicon}`telescope;1em;caption-text` **uv**
+^^^
+An fast Python package and project manager, written in Rust.
++++
+[Read more or use this reference »](https://docs.astral.sh/uv/)
 :::
 
 

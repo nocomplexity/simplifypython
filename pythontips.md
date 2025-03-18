@@ -138,3 +138,26 @@ mylist
      'cc-by',
      'Blog']
 
+## Install a package from a local directory
+
+It is not always needed to distribute a Python package on [https://pypi.org/](https://pypi.org/). There already too many packages published that are out-of-date or have never worked at all.
+
+
+When you create a Python package for yourself or only to be used within your company you can easily install this package from a local directory. So distribution of a package can be done using git so anyone who is interested can just `git clone` your work.
+
+To install a package from a local directory:
+```python
+pip install .  (or use the directory where it is installed)
+
+Or do:
+
+pip install -e . : for Edit mode, during package development.
+```
+
+This is a nice to make some local modifications of a cloned package.
+
+Of course mind the environment you use for installation. 
+
+
+
+

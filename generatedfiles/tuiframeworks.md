@@ -7,48 +7,18 @@
 :gutter: 2
 
 :::{grid-item-card}
-:link: https://github.com/bczsalba/pytermgui 
-{octicon}`check-circle;1em;caption-text` **PyTermGUI**
+:link: https://github.com/hoffstadt/DearPyGui 
+{octicon}`thumbsup;1em;caption-text` **Dear PyGui**
 ^^^
-Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! 
+A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 +++
-[Read more or use this reference »](https://github.com/bczsalba/pytermgui)
-:::
-
-
-:::{grid-item-card}
-:link: https://typer.tiangolo.com/ 
-{octicon}`hubot;1em;caption-text` **Typer**
-^^^
-Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python type hints.
-+++
-[Read more or use this reference »](https://typer.tiangolo.com/)
-:::
-
-
-:::{grid-item-card}
-:link: https://github.com/prompt-toolkit/python-prompt-toolkit 
-{octicon}`thumbsup;1em;caption-text` **Python Prompt Toolkit**
-^^^
-Library for building powerful interactive command line applications in Python
-+++
-[Read more or use this reference »](https://github.com/prompt-toolkit/python-prompt-toolkit)
-:::
-
-
-:::{grid-item-card}
-:link: https://github.com/Textualize/rich 
-{octicon}`book;1em;caption-text` **Rich**
-^^^
-Rich is a Python library for rich text and beautiful formatting in the terminal.
-+++
-[Read more or use this reference »](https://github.com/Textualize/rich)
+[Read more or use this reference »](https://github.com/hoffstadt/DearPyGui)
 :::
 
 
 :::{grid-item-card}
 :link: https://github.com/google/python-fire 
-{octicon}`verified;1em;caption-text` **Fire**
+{octicon}`thumbsup;1em;caption-text` **Fire**
 ^^^
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. Is is the simpelest way to create a CLI application!
 +++
@@ -58,7 +28,7 @@ Python Fire is a library for automatically generating command line interfaces (C
 
 :::{grid-item-card}
 :link: https://google.github.io/mesop/ 
-{octicon}`checklist;1em;caption-text` **Mesop**
+{octicon}`bookmark;1em;caption-text` **Mesop**
 ^^^
 Rapidly build AI apps in Python. With Google FOSS software.
 +++
@@ -67,8 +37,28 @@ Rapidly build AI apps in Python. With Google FOSS software.
 
 
 :::{grid-item-card}
+:link: https://github.com/bczsalba/pytermgui 
+{octicon}`megaphone;1em;caption-text` **PyTermGUI**
+^^^
+Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! 
++++
+[Read more or use this reference »](https://github.com/bczsalba/pytermgui)
+:::
+
+
+:::{grid-item-card}
+:link: https://github.com/prompt-toolkit/python-prompt-toolkit 
+{octicon}`heart;1em;caption-text` **Python Prompt Toolkit**
+^^^
+Library for building powerful interactive command line applications in Python
++++
+[Read more or use this reference »](https://github.com/prompt-toolkit/python-prompt-toolkit)
+:::
+
+
+:::{grid-item-card}
 :link: https://github.com/reflex-dev/reflex 
-{octicon}`heart;1em;caption-text` **Reflex**
+{octicon}`package;1em;caption-text` **Reflex**
 ^^^
 Web apps in pure Python
 +++
@@ -77,12 +67,22 @@ Web apps in pure Python
 
 
 :::{grid-item-card}
-:link: https://github.com/hoffstadt/DearPyGui 
-{octicon}`heart;1em;caption-text` **Dear PyGui**
+:link: https://github.com/Textualize/rich 
+{octicon}`heart;1em;caption-text` **Rich**
 ^^^
-A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+Rich is a Python library for rich text and beautiful formatting in the terminal.
 +++
-[Read more or use this reference »](https://github.com/hoffstadt/DearPyGui)
+[Read more or use this reference »](https://github.com/Textualize/rich)
+:::
+
+
+:::{grid-item-card}
+:link: https://typer.tiangolo.com/ 
+{octicon}`bookmark;1em;caption-text` **Typer**
+^^^
+Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python type hints.
++++
+[Read more or use this reference »](https://typer.tiangolo.com/)
 :::
 
 

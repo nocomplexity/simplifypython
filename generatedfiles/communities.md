@@ -7,28 +7,8 @@
 :gutter: 2
 
 :::{grid-item-card}
-:link: https://palletsprojects.com/ 
-{octicon}`file;1em;caption-text` **Pallets**
-^^^
-Pallets is the open source community organization that develops and supports popular Python frameworks. 
-+++
-[Read more or use this reference »](https://palletsprojects.com/)
-:::
-
-
-:::{grid-item-card}
-:link: https://jazzband.co/ 
-{octicon}`briefcase;1em;caption-text` **Jazzband**
-^^^
-Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
-+++
-[Read more or use this reference »](https://jazzband.co/)
-:::
-
-
-:::{grid-item-card}
 :link: https://conda.org/ 
-{octicon}`report;1em;caption-text` **Conda Community**
+{octicon}`tools;1em;caption-text` **Conda Community**
 ^^^
 A community supporting a language-agnostic, multi-platform package management ecosystem for projects of any size and complexity.
 +++
@@ -37,8 +17,28 @@ A community supporting a language-agnostic, multi-platform package management ec
 
 
 :::{grid-item-card}
+:link: https://jazzband.co/ 
+{octicon}`project;1em;caption-text` **Jazzband**
+^^^
+Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
++++
+[Read more or use this reference »](https://jazzband.co/)
+:::
+
+
+:::{grid-item-card}
+:link: https://palletsprojects.com/ 
+{octicon}`smiley;1em;caption-text` **Pallets**
+^^^
+Pallets is the open source community organization that develops and supports popular Python frameworks. 
++++
+[Read more or use this reference »](https://palletsprojects.com/)
+:::
+
+
+:::{grid-item-card}
 :link: https://pydata.org/ 
-{octicon}`tag;1em;caption-text` **PyData**
+{octicon}`bookmark;1em;caption-text` **PyData**
 ^^^
 PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 +++
@@ -48,7 +48,7 @@ PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 
 :::{grid-item-card}
 :link: https://scientific-python.org 
-{octicon}`book;1em;caption-text` **The Scientific Python project**
+{octicon}`briefcase;1em;caption-text` **The Scientific Python project**
 ^^^
 The scientific Python ecosystem is a loose federation of community-developed and -owned Python projects widely used in scientific research, technical computing, and data science. 
 +++

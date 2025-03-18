@@ -7,22 +7,22 @@
 :gutter: 2
 
 :::{grid-item-card}
-:link: https://pytest.org/en/latest/ 
-{octicon}`bookmark;1em;caption-text` **pytest**
-^^^
-The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
-+++
-[Read more or use this reference »](https://pytest.org/en/latest/)
-:::
-
-
-:::{grid-item-card}
 :link: https://www.pynguin.eu/ 
-{octicon}`telescope;1em;caption-text` **Pynguin**
+{octicon}`cross-reference;1em;caption-text` **Pynguin**
 ^^^
 Pynguin (IPA: ˈpɪŋɡuiːn), the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.Pynguin is developed at the Chair of Software Engineering II of the University of Passau.
 +++
 [Read more or use this reference »](https://www.pynguin.eu/)
+:::
+
+
+:::{grid-item-card}
+:link: https://pytest.org/en/latest/ 
+{octicon}`package;1em;caption-text` **pytest**
+^^^
+The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
++++
+[Read more or use this reference »](https://pytest.org/en/latest/)
 :::
 
 
