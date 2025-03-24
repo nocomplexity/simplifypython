@@ -1,4 +1,4 @@
-# README
+# Master Python for AI/ML
 
 Having Python programming skills is essential for architects, engineers, and managers in the IT industry, especially when working with data or ML/AI applications.
 
