@@ -47,10 +47,20 @@ Given the vast array of FOSS cybersecurity products available, this publication 
 :::{grid-item-card}
 :link: https://nocomplexity.com/documents/reports/SimplifySecurity.pdf
 :link-type: url
-{octicon}`book;2em;caption-text` **Simplify Cyber Security**        
+{octicon}`book;2em;caption-text` **Simplify Cyber Manifest**        
 ^^^
 A manifesto to revolutionize cybersecurity through simplification.
 :::
+
+
+:::{grid-item-card}
+:link: https://nocomplexity.com/documents/simplifysecurity/intro.html#
+:link-type: url
+{octicon}`book;2em;caption-text` **Simplify Security**        
+^^^
+Find open simple cyber solutions that work. Simplify cyber security to accelerate its effectiveness.
+:::
+
 
 :::{grid-item-card}
 :link: https://nocomplexity.com/documents/simplifyprivacy/intro.html
@@ -89,6 +99,16 @@ Freedom to control machine learning and AI technology is not self-evident. This 
 Supercharge your data science journey with Mastering JupyterLab. Use this Playbook to streamline your workflow and boost productivity. 
 :::
 
+
+:::{grid-item-card}
+:link: https://nocomplexity.com/documents/pythonbook/introduction.html
+:link-type: url
+{octicon}`book;2em;caption-text` **Master Python for AI/ML**        
+^^^
+Python programming skills are essential for architects, engineers, and even managers in the IT industry. 
+Become a Python master to do more with AI/ML applications.
+:::
+
  
 ::::
 % End of Cards grid
@@ -113,7 +133,7 @@ A playbook providing practical tools to help create architectures and designs mo
 :::{grid-item-card}
 :link: https://nocomplexity.com/simplifyit/
 :link-type: url
-{octicon}`book;2em;caption-text` **Simplify IT Playbook**        
+{octicon}`book;2em;caption-text` **Simplify IT**        
 ^^^
 This is an eBook with proven scientific tools and frameworks to help you effectively solve complex IT problems and gain a comprehensive understanding of IT systems in a business context.
 :::

@@ -16,7 +16,11 @@ This book is open-access. So it's free to read and reuse for other publications.
 :::{admonition} Donate
 :class: tip
 
-If you think this PlayBook is worth a few Euros, you can [make a payment](https://nocomplexity.com/support-simplify-python/). This will help me to keep this guide maintained. If you are not able to make a small donation, it's fine. Just enjoy this PlayBook and [Share](share-subsection) the word about it.
+If you think this PlayBook is worth a few Euros, you can [make a payment](https://nocomplexity.com/support-simplify-python/). 
+
+Or download a PDF version of this Guide. Check our [Shop!](https://nocomplexity.gumroad.com/).
+
+This will help me to keep this guide maintained. If you are not able to make a small donation, it's fine. Just enjoy this PlayBook and [Share](share-subsection) the word about it.
 :::
 
 (share-subsection)=
