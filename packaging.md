@@ -105,6 +105,7 @@ It covers not only packaging, but also how to create test scripts and documentat
 
 :::{tip}
 Besides using the Python default tools there are other ways and great tools for packaging. Check e.g.:
+* [HATCH](https://hatch.pypa.io/latest/) Hatch is a modern, extensible Python project manager. Standardized build system with reproducible builds by default.
 *  [Mamba](https://mamba.readthedocs.io/en/latest/) or
 * [uv](https://docs.astral.sh/uv/) A fast package and dependency manager created in RUSTlang. Imho hard to maintain or create an easy fix for non-rust lang developers. But try it out.
 * [pex](https://docs.pex-tool.org/index.html). Tool to create Python Executables.
