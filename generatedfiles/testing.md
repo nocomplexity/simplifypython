@@ -2,13 +2,13 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://www.pynguin.eu/ 
-{octicon}`cross-reference;1em;caption-text` **Pynguin**
+{octicon}`heart;1em;caption-text` **Pynguin**
 ^^^
 Pynguin (IPA: ˈpɪŋɡuiːn), the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.Pynguin is developed at the Chair of Software Engineering II of the University of Passau.
 +++
@@ -18,7 +18,7 @@ Pynguin (IPA: ˈpɪŋɡuiːn), the PYthoN General UnIt test geNerator, is a tool
 
 :::{grid-item-card}
 :link: https://pytest.org/en/latest/ 
-{octicon}`package;1em;caption-text` **pytest**
+{octicon}`check-circle;1em;caption-text` **pytest**
 ^^^
 The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
 +++

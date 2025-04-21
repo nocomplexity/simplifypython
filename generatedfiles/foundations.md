@@ -2,13 +2,13 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`briefcase;1em;caption-text` **NumFOCUS**
+{octicon}`telescope;1em;caption-text` **NumFOCUS**
 ^^^
 NumFOCUS is to promote open practices in research, data, and scientific computing 
 +++
@@ -18,7 +18,7 @@ NumFOCUS is to promote open practices in research, data, and scientific computin
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`light-bulb;1em;caption-text` **pyOpenSci**
+{octicon}`book;1em;caption-text` **pyOpenSci**
 ^^^
 Community that supports free and open Python tools for processing scientific data. 
 +++

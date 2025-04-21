@@ -2,13 +2,13 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://www.anaconda.com/ 
-{octicon}`stack;1em;caption-text` **Anaconda**
+{octicon}`megaphone;1em;caption-text` **Anaconda**
 ^^^
 Anaconda sits at the center of the AI revolution. We provide data science tools, MLOps, and data & model management to empower our customers and community with AI capabilities to propel their projects forward.
 +++
@@ -18,7 +18,7 @@ Anaconda sits at the center of the AI revolution. We provide data science tools,
 
 :::{grid-item-card}
 :link: https://astral.sh/ 
-{octicon}`project;1em;caption-text` **Astral**
+{octicon}`eye;1em;caption-text` **Astral**
 ^^^
 Next-gen Python tooling
 +++

@@ -4,13 +4,13 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://jakevdp.github.io/WhirlwindTourOfPython/ 
-{octicon}`pencil;1em;caption-text` **A Whirlwind Tour of Python**
+{octicon}`stack;1em;caption-text` **A Whirlwind Tour of Python**
 ^^^
 A Whirlwind Tour of Python is a fast-paced introduction to essential features of the Python language, aimed at researchers and developers who are already familiar with programming in another language. 
 +++
@@ -20,7 +20,7 @@ A Whirlwind Tour of Python is a fast-paced introduction to essential features of
 
 :::{grid-item-card}
 :link: https://www.thedigitalcatbooks.com/pycabook-introduction/ 
-{octicon}`eye;1em;caption-text` **Clean Architectures in Python**
+{octicon}`hubot;1em;caption-text` **Clean Architectures in Python**
 ^^^
 This book is about a software design methodology. With lots of Python examples and a strong emphasis on TDD.
 +++
@@ -30,7 +30,7 @@ This book is about a software design methodology. With lots of Python examples a
 
 :::{grid-item-card}
 :link: https://runestone.academy/ns/books/published/fopp/index.html 
-{octicon}`check-circle;1em;caption-text` **Foundations of Python Programming**
+{octicon}`telescope;1em;caption-text` **Foundations of Python Programming**
 ^^^
 This book is to teach you to understand and create computer programs in Python. With hands-on activities!
 +++
@@ -40,7 +40,7 @@ This book is to teach you to understand and create computer programs in Python. 
 
 :::{grid-item-card}
 :link: https://www.labri.fr/perso/nrougier/from-python-to-numpy/ 
-{octicon}`smiley;1em;caption-text` **From Python to Numpy**
+{octicon}`hubot;1em;caption-text` **From Python to Numpy**
 ^^^
 The goal of this book is to explain advanced techniques for using Numpy.
 +++
@@ -50,7 +50,7 @@ The goal of this book is to explain advanced techniques for using Numpy.
 
 :::{grid-item-card}
 :link: https://developers.google.com/edu/python 
-{octicon}`eye;1em;caption-text` **Google's Python Class**
+{octicon}`book;1em;caption-text` **Google's Python Class**
 ^^^
 Free online course book for people with a little bit of programming experience who want to learn Python
 +++
@@ -60,7 +60,7 @@ Free online course book for people with a little bit of programming experience w
 
 :::{grid-item-card}
 :link: https://book.pythontips.com/en/latest/index.html 
-{octicon}`heart;1em;caption-text` **Intermediate Python**
+{octicon}`megaphone;1em;caption-text` **Intermediate Python**
 ^^^
 The topics which are discussed in this book open up your mind towards some nice corners of Python language. 
 +++
@@ -70,7 +70,7 @@ The topics which are discussed in this book open up your mind towards some nice 
 
 :::{grid-item-card}
 :link: https://pythonbook.org/ 
-{octicon}`tag;1em;caption-text` **Professional Python Programming**
+{octicon}`telescope;1em;caption-text` **Professional Python Programming**
 ^^^
 Open access book that covers  topics that are important for a professional programmer. 
 +++
@@ -80,7 +80,7 @@ Open access book that covers  topics that are important for a professional progr
 
 :::{grid-item-card}
 :link: https://www.labri.fr/perso/nrougier/python-opengl/ 
-{octicon}`package;1em;caption-text` **Python & OpenGL for Scientific Visualization**
+{octicon}`heart;1em;caption-text` **Python & OpenGL for Scientific Visualization**
 ^^^
 he goal of this book is to reconciliate Python programmers with OpenGL, providing both an introduction to modern OpenGL and a set of basic and advanced techniques in order to achieve both fast, scalable & beautiful scientific visualizations.
 +++
@@ -100,7 +100,7 @@ A book about doing data science with Python.
 
 :::{grid-item-card}
 :link: https://py-pkgs.org/welcome 
-{octicon}`thumbsup;1em;caption-text` **Python Packages**
+{octicon}`note;1em;caption-text` **Python Packages**
 ^^^
 Python Packages is an open source book that describes modern and efficient workflows for creating Python packages.
 +++
@@ -120,7 +120,7 @@ Covers everything you need to know to start using Python for data science.
 
 :::{grid-item-card}
 :link: https://python-programming.quantecon.org/intro.html 
-{octicon}`thumbsup;1em;caption-text` **Python Programming for Economics and Finance**
+{octicon}`file;1em;caption-text` **Python Programming for Economics and Finance**
 ^^^
 Python for scientific computing, with a focus on economics and finance.
 +++
@@ -130,7 +130,7 @@ Python for scientific computing, with a focus on economics and finance.
 
 :::{grid-item-card}
 :link: https://wesmckinney.com/book/ 
-{octicon}`checklist;1em;caption-text` **Python for Data Analysis, 3E**
+{octicon}`heart;1em;caption-text` **Python for Data Analysis, 3E**
 ^^^
 This book is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python.
 +++
@@ -140,7 +140,7 @@ This book is concerned with the nuts and bolts of manipulating, processing, clea
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`check-circle;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`thumbsup;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++
@@ -150,7 +150,7 @@ Handbook is for all who do a lot of programming as part of their research. It wi
 
 :::{grid-item-card}
 :link: https://docs.python-guide.org/ 
-{octicon}`report;1em;caption-text` **The Hitchhiker’s Guide to Python**
+{octicon}`file;1em;caption-text` **The Hitchhiker’s Guide to Python**
 ^^^
 Python Best Practices Guidebook.
 +++
@@ -160,7 +160,7 @@ Python Best Practices Guidebook.
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`briefcase;1em;caption-text` **pyOpenSci Python Package Guide**
+{octicon}`package;1em;caption-text` **pyOpenSci Python Package Guide**
 ^^^
 Learn how to create a Python package from start to finish. Also great tutorials for writing test, documentation and more!
 +++
@@ -176,13 +176,13 @@ Learn how to create a Python package from start to finish. Also great tutorials 
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://www.anaconda.com/ 
-{octicon}`stack;1em;caption-text` **Anaconda**
+{octicon}`megaphone;1em;caption-text` **Anaconda**
 ^^^
 Anaconda sits at the center of the AI revolution. We provide data science tools, MLOps, and data & model management to empower our customers and community with AI capabilities to propel their projects forward.
 +++
@@ -192,7 +192,7 @@ Anaconda sits at the center of the AI revolution. We provide data science tools,
 
 :::{grid-item-card}
 :link: https://astral.sh/ 
-{octicon}`project;1em;caption-text` **Astral**
+{octicon}`eye;1em;caption-text` **Astral**
 ^^^
 Next-gen Python tooling
 +++
@@ -208,13 +208,13 @@ Next-gen Python tooling
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://conda.org/ 
-{octicon}`tools;1em;caption-text` **Conda Community**
+{octicon}`check-circle;1em;caption-text` **Conda Community**
 ^^^
 A community supporting a language-agnostic, multi-platform package management ecosystem for projects of any size and complexity.
 +++
@@ -224,7 +224,7 @@ A community supporting a language-agnostic, multi-platform package management ec
 
 :::{grid-item-card}
 :link: https://jazzband.co/ 
-{octicon}`project;1em;caption-text` **Jazzband**
+{octicon}`briefcase;1em;caption-text` **Jazzband**
 ^^^
 Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
 +++
@@ -234,7 +234,7 @@ Jazzband is a collaborative community to share the responsibility of maintaining
 
 :::{grid-item-card}
 :link: https://palletsprojects.com/ 
-{octicon}`smiley;1em;caption-text` **Pallets**
+{octicon}`zap;1em;caption-text` **Pallets**
 ^^^
 Pallets is the open source community organization that develops and supports popular Python frameworks. 
 +++
@@ -244,7 +244,7 @@ Pallets is the open source community organization that develops and supports pop
 
 :::{grid-item-card}
 :link: https://pydata.org/ 
-{octicon}`bookmark;1em;caption-text` **PyData**
+{octicon}`book;1em;caption-text` **PyData**
 ^^^
 PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 +++
@@ -253,8 +253,18 @@ PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 
 
 :::{grid-item-card}
+:link: https://docs-community.readthedocs.io/index.html 
+{octicon}`book;1em;caption-text` **Python Documentation Community**
+^^^
+The Documentation Team will be contributors to documentation who participate regularly to CPython documentation and monthly meetings (synchronously or asynchronously). A goal of this team will be to build a global community around CPython documentation.
++++
+[Read more or use this reference »](https://docs-community.readthedocs.io/index.html)
+:::
+
+
+:::{grid-item-card}
 :link: https://scientific-python.org 
-{octicon}`briefcase;1em;caption-text` **The Scientific Python project**
+{octicon}`eye;1em;caption-text` **The Scientific Python project**
 ^^^
 The scientific Python ecosystem is a loose federation of community-developed and -owned Python projects widely used in scientific research, technical computing, and data science. 
 +++
@@ -270,13 +280,13 @@ The scientific Python ecosystem is a loose federation of community-developed and
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`briefcase;1em;caption-text` **NumFOCUS**
+{octicon}`telescope;1em;caption-text` **NumFOCUS**
 ^^^
 NumFOCUS is to promote open practices in research, data, and scientific computing 
 +++
@@ -286,7 +296,7 @@ NumFOCUS is to promote open practices in research, data, and scientific computin
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`light-bulb;1em;caption-text` **pyOpenSci**
+{octicon}`book;1em;caption-text` **pyOpenSci**
 ^^^
 Community that supports free and open Python tools for processing scientific data. 
 +++
@@ -302,13 +312,13 @@ Community that supports free and open Python tools for processing scientific dat
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://github.com/lona-web-org/lona 
-{octicon}`telescope;1em;caption-text` **Lona**
+{octicon}`file;1em;caption-text` **Lona**
 ^^^
 Write responsive web apps in full python 
 +++
@@ -318,7 +328,7 @@ Write responsive web apps in full python
 
 :::{grid-item-card}
 :link: https://github.com/web2py/py4web 
-{octicon}`eye;1em;caption-text` **PY4WEB**
+{octicon}`thumbsup;1em;caption-text` **PY4WEB**
 ^^^
 PY4WEB is a web framework for the rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework but much faster and slicker.
 +++
@@ -328,7 +338,7 @@ PY4WEB is a web framework for the rapid development of efficient database driven
 
 :::{grid-item-card}
 :link: https://github.com/posit-dev/py-shiny/ 
-{octicon}`bookmark;1em;caption-text` **Shiny**
+{octicon}`briefcase;1em;caption-text` **Shiny**
 ^^^
 Build fast, beautiful web applications in Python.
 +++
@@ -344,13 +354,13 @@ Build fast, beautiful web applications in Python.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://github.com/urllib3/urllib3 
-{octicon}`megaphone;1em;caption-text` **urllib3**
+{octicon}`checklist;1em;caption-text` **urllib3**
 ^^^
 urllib3 is a powerful, user-friendly HTTP client for Python. Much of the Python ecosystem already uses urllib3 and you should too. urllib3 brings many critical features that are missing from the Python standard libraries:
 +++
@@ -366,13 +376,13 @@ urllib3 is a powerful, user-friendly HTTP client for Python. Much of the Python 
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://black.readthedocs.io/en/stable/ 
-{octicon}`light-bulb;1em;caption-text` **Black**
+{octicon}`verified;1em;caption-text` **Black**
 ^^^
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. Defacto standard formatter for many projects.
 +++
@@ -382,7 +392,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 :::{grid-item-card}
 :link: https://docs.conda.io/projects/conda/en/stable/ 
-{octicon}`report;1em;caption-text` **Conda Documentation**
+{octicon}`pencil;1em;caption-text` **Conda Documentation**
 ^^^
 Conda's documentation! Conda provides package, dependency, and environment management for any language. 
 +++
@@ -392,7 +402,7 @@ Conda's documentation! Conda provides package, dependency, and environment manag
 
 :::{grid-item-card}
 :link: https://hatch.pypa.io/latest/ 
-{octicon}`thumbsup;1em;caption-text` **Hatch**
+{octicon}`light-bulb;1em;caption-text` **Hatch**
 ^^^
 Hatch is a modern, extensible Python project manager. 
 +++
@@ -402,7 +412,7 @@ Hatch is a modern, extensible Python project manager.
 
 :::{grid-item-card}
 :link: https://mamba.readthedocs.io/en/latest/ 
-{octicon}`check-circle;1em;caption-text` **Mamba’s documentation**
+{octicon}`megaphone;1em;caption-text` **Mamba’s documentation**
 ^^^
 Mamba is a fast, robust, and cross-platform package manage
 +++
@@ -412,7 +422,7 @@ Mamba is a fast, robust, and cross-platform package manage
 
 :::{grid-item-card}
 :link: https://nox.thea.codes/en/stable/index.html 
-{octicon}`thumbsup;1em;caption-text` **Nox**
+{octicon}`tools;1em;caption-text` **Nox**
 ^^^
 nox is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
 +++
@@ -422,7 +432,7 @@ nox is a command-line tool that automates testing in multiple Python environment
 
 :::{grid-item-card}
 :link: https://py-pkgs-cookiecutter.readthedocs.io/en/latest/ 
-{octicon}`zap;1em;caption-text` **Py-Pkgs-Cookiecutter**
+{octicon}`package;1em;caption-text` **Py-Pkgs-Cookiecutter**
 ^^^
 py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Python package using poetry. It supplements the Python Packages book by Tomas Beuzen and Tiffany Timbers but can be used independently.
 +++
@@ -431,8 +441,18 @@ py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Py
 
 
 :::{grid-item-card}
+:link: https://docs.pypi.org/ 
+{octicon}`zap;1em;caption-text` **PyPI User Documentation**
+^^^
+PyPI is the official repository of packages for Python. This user documentation is aimed at users who use the PyPI website.
++++
+[Read more or use this reference »](https://docs.pypi.org/)
+:::
+
+
+:::{grid-item-card}
 :link: https://setuptools.pypa.io/en/latest/userguide/ 
-{octicon}`book;1em;caption-text` **Setuptools**
+{octicon}`light-bulb;1em;caption-text` **Setuptools**
 ^^^
 Building and Distributing Packages with Setuptools. If you are not (yet) using Hatch, this is a good manual for using setup tools.
 +++
@@ -442,7 +462,7 @@ Building and Distributing Packages with Setuptools. If you are not (yet) using H
 
 :::{grid-item-card}
 :link: https://docs.pex-tool.org/ 
-{octicon}`briefcase;1em;caption-text` **pex**
+{octicon}`thumbsup;1em;caption-text` **pex**
 ^^^
 A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
 +++
@@ -458,13 +478,13 @@ A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://black.readthedocs.io/en/stable/ 
-{octicon}`bookmark;1em;caption-text` **Black**
+{octicon}`eye;1em;caption-text` **Black**
 ^^^
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. Defacto standard formatter for many projects.
 +++
@@ -474,7 +494,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 :::{grid-item-card}
 :link: https://docs.python.org 
-{octicon}`thumbsup;1em;caption-text` **Official Python documentation**
+{octicon}`note;1em;caption-text` **Official Python documentation**
 ^^^
 The source for the official documentation. Always up-to-date.
 +++
@@ -484,7 +504,7 @@ The source for the official documentation. Always up-to-date.
 
 :::{grid-item-card}
 :link: https://peps.python.org/ 
-{octicon}`telescope;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+{octicon}`hubot;1em;caption-text` **Python Enhancement Proposals (PEPs)**
 ^^^
 This PEP contains the index of all Python Enhancement Proposals (PEPs)
 +++
@@ -494,7 +514,7 @@ This PEP contains the index of all Python Enhancement Proposals (PEPs)
 
 :::{grid-item-card}
 :link: https://packaging.python.org/en/latest/ 
-{octicon}`thumbsup;1em;caption-text` **Python Packaging User Guide**
+{octicon}`briefcase;1em;caption-text` **Python Packaging User Guide**
 ^^^
 A collection of tutorials and references to help you distribute and install Python packages with modern tools.
 +++
@@ -504,7 +524,7 @@ A collection of tutorials and references to help you distribute and install Pyth
 
 :::{grid-item-card}
 :link: https://docs.python.org/3/reference/index.html 
-{octicon}`hubot;1em;caption-text` **The Python Language Reference**
+{octicon}`tools;1em;caption-text` **The Python Language Reference**
 ^^^
 This reference manual describes the syntax and “core semantics” of the language.
 +++
@@ -514,7 +534,7 @@ This reference manual describes the syntax and “core semantics” of the langu
 
 :::{grid-item-card}
 :link: https://pip.pypa.io/en/stable/ 
-{octicon}`cross-reference;1em;caption-text` **pip**
+{octicon}`book;1em;caption-text` **pip**
 ^^^
 pip is the package installer for Python.
 +++
@@ -530,13 +550,13 @@ pip is the package installer for Python.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://pypi.org/ 
-{octicon}`checklist;1em;caption-text` **Python packages**
+{octicon}`zap;1em;caption-text` **Python packages**
 ^^^
 The Python Package Index (PyPI) is the defacto standard repository of software for the Python programming language.
 +++
@@ -546,7 +566,7 @@ The Python Package Index (PyPI) is the defacto standard repository of software f
 
 :::{grid-item-card}
 :link: https://conda-forge.org/ 
-{octicon}`check-circle;1em;caption-text` **conda-forge**
+{octicon}`report;1em;caption-text` **conda-forge**
 ^^^
 Community-led recipes, infrastructure and distributions for conda.
 +++
@@ -562,13 +582,13 @@ Community-led recipes, infrastructure and distributions for conda.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://code.launchpad.net/beautifulsoup 
-{octicon}`verified;1em;caption-text` **Beautiful Soup**
+{octicon}`check-circle;1em;caption-text` **Beautiful Soup**
 ^^^
 A program designed for screen-scraping HTML.
 +++
@@ -578,7 +598,7 @@ A program designed for screen-scraping HTML.
 
 :::{grid-item-card}
 :link: https://lxml.de/ 
-{octicon}`briefcase;1em;caption-text` **lxml**
+{octicon}`tag;1em;caption-text` **lxml**
 ^^^
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 +++
@@ -594,13 +614,13 @@ lxml is the most feature-rich and easy-to-use library for processing XML and HTM
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://google.github.io/styleguide/pyguide.html 
-{octicon}`bookmark;1em;caption-text` **Google Python Style Guide**
+{octicon}`heart;1em;caption-text` **Google Python Style Guide**
 ^^^
 Python is the main dynamic language used at Google. This style guide is a list of dos and don’ts for Python programs.
 +++
@@ -610,7 +630,7 @@ Python is the main dynamic language used at Google. This style guide is a list o
 
 :::{grid-item-card}
 :link: https://hatch.pypa.io/latest/ 
-{octicon}`megaphone;1em;caption-text` **Hatch**
+{octicon}`telescope;1em;caption-text` **Hatch**
 ^^^
 Hatch is a modern, extensible Python project manager. 
 +++
@@ -620,7 +640,7 @@ Hatch is a modern, extensible Python project manager.
 
 :::{grid-item-card}
 :link: https://pythonbook.org/ 
-{octicon}`tag;1em;caption-text` **Professional Python Programming**
+{octicon}`eye;1em;caption-text` **Professional Python Programming**
 ^^^
 Open access book that covers  topics that are important for a professional programmer. 
 +++
@@ -630,7 +650,7 @@ Open access book that covers  topics that are important for a professional progr
 
 :::{grid-item-card}
 :link: https://py-pkgs-cookiecutter.readthedocs.io/en/latest/ 
-{octicon}`bookmark;1em;caption-text` **Py-Pkgs-Cookiecutter**
+{octicon}`telescope;1em;caption-text` **Py-Pkgs-Cookiecutter**
 ^^^
 py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Python package using poetry. It supplements the Python Packages book by Tomas Beuzen and Tiffany Timbers but can be used independently.
 +++
@@ -640,7 +660,7 @@ py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Py
 
 :::{grid-item-card}
 :link: https://pypistats.org/ 
-{octicon}`heart;1em;caption-text` **PyPI Stats**
+{octicon}`package;1em;caption-text` **PyPI Stats**
 ^^^
 The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
 +++
@@ -650,7 +670,7 @@ The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads
 
 :::{grid-item-card}
 :link: https://peps.python.org/ 
-{octicon}`stack;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+{octicon}`smiley;1em;caption-text` **Python Enhancement Proposals (PEPs)**
 ^^^
 This PEP contains the index of all Python Enhancement Proposals (PEPs)
 +++
@@ -660,7 +680,7 @@ This PEP contains the index of all Python Enhancement Proposals (PEPs)
 
 :::{grid-item-card}
 :link: https://packaging.python.org/en/latest/ 
-{octicon}`check-circle;1em;caption-text` **Python Packaging User Guide**
+{octicon}`briefcase;1em;caption-text` **Python Packaging User Guide**
 ^^^
 A collection of tutorials and references to help you distribute and install Python packages with modern tools.
 +++
@@ -670,7 +690,7 @@ A collection of tutorials and references to help you distribute and install Pyth
 
 :::{grid-item-card}
 :link: https://www.mypy-lang.org/ 
-{octicon}`tools;1em;caption-text` **mypy**
+{octicon}`tag;1em;caption-text` **mypy**
 ^^^
 Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing.
 +++
@@ -680,7 +700,7 @@ Mypy is an optional static type checker for Python that aims to combine the bene
 
 :::{grid-item-card}
 :link: https://pandas.pydata.org/docs/development/contributing_docstring.html#pandas-docstring-guide 
-{octicon}`heart;1em;caption-text` **pandas docstring guide**
+{octicon}`package;1em;caption-text` **pandas docstring guide**
 ^^^
 The pandas guide for documenting code. Solid reference.
 +++
@@ -690,7 +710,7 @@ The pandas guide for documenting code. Solid reference.
 
 :::{grid-item-card}
 :link: https://docs.pex-tool.org/ 
-{octicon}`light-bulb;1em;caption-text` **pex**
+{octicon}`verified;1em;caption-text` **pex**
 ^^^
 A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
 +++
@@ -700,7 +720,7 @@ A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 
 :::{grid-item-card}
 :link: https://pip.pypa.io/en/stable/ 
-{octicon}`eye;1em;caption-text` **pip**
+{octicon}`thumbsup;1em;caption-text` **pip**
 ^^^
 pip is the package installer for Python.
 +++
@@ -710,7 +730,7 @@ pip is the package installer for Python.
 
 :::{grid-item-card}
 :link: https://pipx.pypa.io/stable/ 
-{octicon}`hubot;1em;caption-text` **pipx**
+{octicon}`cross-reference;1em;caption-text` **pipx**
 ^^^
 Install and Run Python Applications in Isolated Environments
 +++
@@ -720,7 +740,7 @@ Install and Run Python Applications in Isolated Environments
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`checklist;1em;caption-text` **pyOpenSci Python Package Guide**
+{octicon}`eye;1em;caption-text` **pyOpenSci Python Package Guide**
 ^^^
 Learn how to create a Python package from start to finish. Also great tutorials for writing test, documentation and more!
 +++
@@ -730,7 +750,7 @@ Learn how to create a Python package from start to finish. Also great tutorials 
 
 :::{grid-item-card}
 :link: https://docs.astral.sh/uv/ 
-{octicon}`telescope;1em;caption-text` **uv**
+{octicon}`pencil;1em;caption-text` **uv**
 ^^^
 An fast Python package and project manager, written in Rust.
 +++
@@ -746,13 +766,13 @@ An fast Python package and project manager, written in Rust.
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://github.com/hoffstadt/DearPyGui 
-{octicon}`thumbsup;1em;caption-text` **Dear PyGui**
+{octicon}`report;1em;caption-text` **Dear PyGui**
 ^^^
 A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 +++
@@ -762,7 +782,7 @@ A fast and powerful Graphical User Interface Toolkit for Python with minimal dep
 
 :::{grid-item-card}
 :link: https://github.com/google/python-fire 
-{octicon}`thumbsup;1em;caption-text` **Fire**
+{octicon}`file;1em;caption-text` **Fire**
 ^^^
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. Is is the simpelest way to create a CLI application!
 +++
@@ -772,7 +792,7 @@ Python Fire is a library for automatically generating command line interfaces (C
 
 :::{grid-item-card}
 :link: https://google.github.io/mesop/ 
-{octicon}`bookmark;1em;caption-text` **Mesop**
+{octicon}`briefcase;1em;caption-text` **Mesop**
 ^^^
 Rapidly build AI apps in Python. With Google FOSS software.
 +++
@@ -782,7 +802,7 @@ Rapidly build AI apps in Python. With Google FOSS software.
 
 :::{grid-item-card}
 :link: https://github.com/bczsalba/pytermgui 
-{octicon}`megaphone;1em;caption-text` **PyTermGUI**
+{octicon}`book;1em;caption-text` **PyTermGUI**
 ^^^
 Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! 
 +++
@@ -792,7 +812,7 @@ Python TUI framework with mouse support, modular widget system, customizable and
 
 :::{grid-item-card}
 :link: https://github.com/prompt-toolkit/python-prompt-toolkit 
-{octicon}`heart;1em;caption-text` **Python Prompt Toolkit**
+{octicon}`report;1em;caption-text` **Python Prompt Toolkit**
 ^^^
 Library for building powerful interactive command line applications in Python
 +++
@@ -802,7 +822,7 @@ Library for building powerful interactive command line applications in Python
 
 :::{grid-item-card}
 :link: https://github.com/reflex-dev/reflex 
-{octicon}`package;1em;caption-text` **Reflex**
+{octicon}`project;1em;caption-text` **Reflex**
 ^^^
 Web apps in pure Python
 +++
@@ -812,7 +832,7 @@ Web apps in pure Python
 
 :::{grid-item-card}
 :link: https://github.com/Textualize/rich 
-{octicon}`heart;1em;caption-text` **Rich**
+{octicon}`tools;1em;caption-text` **Rich**
 ^^^
 Rich is a Python library for rich text and beautiful formatting in the terminal.
 +++
@@ -822,7 +842,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 :::{grid-item-card}
 :link: https://typer.tiangolo.com/ 
-{octicon}`bookmark;1em;caption-text` **Typer**
+{octicon}`tools;1em;caption-text` **Typer**
 ^^^
 Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python type hints.
 +++
@@ -838,13 +858,13 @@ Typer is a library for building CLI applications that users will love using and 
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://www.pynguin.eu/ 
-{octicon}`cross-reference;1em;caption-text` **Pynguin**
+{octicon}`heart;1em;caption-text` **Pynguin**
 ^^^
 Pynguin (IPA: ˈpɪŋɡuiːn), the PYthoN General UnIt test geNerator, is a tool that allows developers to generate unit tests automatically.Pynguin is developed at the Chair of Software Engineering II of the University of Passau.
 +++
@@ -854,7 +874,7 @@ Pynguin (IPA: ˈpɪŋɡuiːn), the PYthoN General UnIt test geNerator, is a tool
 
 :::{grid-item-card}
 :link: https://pytest.org/en/latest/ 
-{octicon}`package;1em;caption-text` **pytest**
+{octicon}`check-circle;1em;caption-text` **pytest**
 ^^^
 The pytest framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
 +++
@@ -870,13 +890,13 @@ The pytest framework makes it easy to write small, readable tests, and can scale
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://matplotlib.org/ 
-{octicon}`eye;1em;caption-text` **Matplotlib**
+{octicon}`tag;1em;caption-text` **Matplotlib**
 ^^^
 Matplotlib is the defacto Python library to be used for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. You can do everything with matplotlib. 
 +++
@@ -886,7 +906,7 @@ Matplotlib is the defacto Python library to be used for creating static, animate
 
 :::{grid-item-card}
 :link: https://altair-viz.github.io/ 
-{octicon}`thumbsup;1em;caption-text` **Vega-Altair**
+{octicon}`report;1em;caption-text` **Vega-Altair**
 ^^^
 Declarative visualization library for Python. Its simple, friendly and consistent API, built on top of the powerful Vega-Lite grammar. Designed to be used with Pandas.
 +++
@@ -896,7 +916,7 @@ Declarative visualization library for Python. Its simple, friendly and consisten
 
 :::{grid-item-card}
 :link: https://lib.vizzuhq.com/latest/ 
-{octicon}`pencil;1em;caption-text` **Vizzu**
+{octicon}`megaphone;1em;caption-text` **Vizzu**
 ^^^
 Vizzu is a free, open-source Javascript/C++ library utilizing a generic dataviz engine that generates many types of charts and seamlessly animates between them.
 +++

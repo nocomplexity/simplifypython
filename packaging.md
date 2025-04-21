@@ -75,10 +75,10 @@ project_name/
 
 :::{admonition} Use the Python Packaging Guide for help!
 :class: tip
-This guide is well maintained. Using the:
 
 [Python Packaging User Guide](https://packaging.python.org/en/latest/)
-gives you the guarantee that you are packaging and distribute your Python code with the latest tools as developed and supported by the PSF.
+
+This guides gives you the guarantee that you are packaging and distribute your Python code with the latest tools as developed and supported by the PSF. This guide is well maintained. 
 :::
 
 
@@ -96,10 +96,9 @@ The pip `-e` option is to install a project in editable mode from a local projec
 
 :::{tip}
 A nice open access learning book involving all process steps for packaging a Python module is:
+[pyOpenSci Python Package Guide](https://www.pyopensci.org/python-package-guide/index.html)
 
-[Welcome to Python Packages](https://py-pkgs.org/welcome).
-
-It covers not only packaging, but also how to create test scripts and documentation.
+It covers not only packaging, but also how to create test scripts and documentation. And it uses `Hatch`, the new modern standard tool to create packages.
 :::
 
 

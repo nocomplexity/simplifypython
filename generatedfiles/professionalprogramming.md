@@ -2,13 +2,13 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://google.github.io/styleguide/pyguide.html 
-{octicon}`bookmark;1em;caption-text` **Google Python Style Guide**
+{octicon}`heart;1em;caption-text` **Google Python Style Guide**
 ^^^
 Python is the main dynamic language used at Google. This style guide is a list of dos and don’ts for Python programs.
 +++
@@ -18,7 +18,7 @@ Python is the main dynamic language used at Google. This style guide is a list o
 
 :::{grid-item-card}
 :link: https://hatch.pypa.io/latest/ 
-{octicon}`megaphone;1em;caption-text` **Hatch**
+{octicon}`telescope;1em;caption-text` **Hatch**
 ^^^
 Hatch is a modern, extensible Python project manager. 
 +++
@@ -28,7 +28,7 @@ Hatch is a modern, extensible Python project manager.
 
 :::{grid-item-card}
 :link: https://pythonbook.org/ 
-{octicon}`tag;1em;caption-text` **Professional Python Programming**
+{octicon}`eye;1em;caption-text` **Professional Python Programming**
 ^^^
 Open access book that covers  topics that are important for a professional programmer. 
 +++
@@ -38,7 +38,7 @@ Open access book that covers  topics that are important for a professional progr
 
 :::{grid-item-card}
 :link: https://py-pkgs-cookiecutter.readthedocs.io/en/latest/ 
-{octicon}`bookmark;1em;caption-text` **Py-Pkgs-Cookiecutter**
+{octicon}`telescope;1em;caption-text` **Py-Pkgs-Cookiecutter**
 ^^^
 py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Python package using poetry. It supplements the Python Packages book by Tomas Beuzen and Tiffany Timbers but can be used independently.
 +++
@@ -48,7 +48,7 @@ py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Py
 
 :::{grid-item-card}
 :link: https://pypistats.org/ 
-{octicon}`heart;1em;caption-text` **PyPI Stats**
+{octicon}`package;1em;caption-text` **PyPI Stats**
 ^^^
 The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
 +++
@@ -58,7 +58,7 @@ The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads
 
 :::{grid-item-card}
 :link: https://peps.python.org/ 
-{octicon}`stack;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+{octicon}`smiley;1em;caption-text` **Python Enhancement Proposals (PEPs)**
 ^^^
 This PEP contains the index of all Python Enhancement Proposals (PEPs)
 +++
@@ -68,7 +68,7 @@ This PEP contains the index of all Python Enhancement Proposals (PEPs)
 
 :::{grid-item-card}
 :link: https://packaging.python.org/en/latest/ 
-{octicon}`check-circle;1em;caption-text` **Python Packaging User Guide**
+{octicon}`briefcase;1em;caption-text` **Python Packaging User Guide**
 ^^^
 A collection of tutorials and references to help you distribute and install Python packages with modern tools.
 +++
@@ -78,7 +78,7 @@ A collection of tutorials and references to help you distribute and install Pyth
 
 :::{grid-item-card}
 :link: https://www.mypy-lang.org/ 
-{octicon}`tools;1em;caption-text` **mypy**
+{octicon}`tag;1em;caption-text` **mypy**
 ^^^
 Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing.
 +++
@@ -88,7 +88,7 @@ Mypy is an optional static type checker for Python that aims to combine the bene
 
 :::{grid-item-card}
 :link: https://pandas.pydata.org/docs/development/contributing_docstring.html#pandas-docstring-guide 
-{octicon}`heart;1em;caption-text` **pandas docstring guide**
+{octicon}`package;1em;caption-text` **pandas docstring guide**
 ^^^
 The pandas guide for documenting code. Solid reference.
 +++
@@ -98,7 +98,7 @@ The pandas guide for documenting code. Solid reference.
 
 :::{grid-item-card}
 :link: https://docs.pex-tool.org/ 
-{octicon}`light-bulb;1em;caption-text` **pex**
+{octicon}`verified;1em;caption-text` **pex**
 ^^^
 A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
 +++
@@ -108,7 +108,7 @@ A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 
 :::{grid-item-card}
 :link: https://pip.pypa.io/en/stable/ 
-{octicon}`eye;1em;caption-text` **pip**
+{octicon}`thumbsup;1em;caption-text` **pip**
 ^^^
 pip is the package installer for Python.
 +++
@@ -118,7 +118,7 @@ pip is the package installer for Python.
 
 :::{grid-item-card}
 :link: https://pipx.pypa.io/stable/ 
-{octicon}`hubot;1em;caption-text` **pipx**
+{octicon}`cross-reference;1em;caption-text` **pipx**
 ^^^
 Install and Run Python Applications in Isolated Environments
 +++
@@ -128,7 +128,7 @@ Install and Run Python Applications in Isolated Environments
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`checklist;1em;caption-text` **pyOpenSci Python Package Guide**
+{octicon}`eye;1em;caption-text` **pyOpenSci Python Package Guide**
 ^^^
 Learn how to create a Python package from start to finish. Also great tutorials for writing test, documentation and more!
 +++
@@ -138,7 +138,7 @@ Learn how to create a Python package from start to finish. Also great tutorials 
 
 :::{grid-item-card}
 :link: https://docs.astral.sh/uv/ 
-{octicon}`telescope;1em;caption-text` **uv**
+{octicon}`pencil;1em;caption-text` **uv**
 ^^^
 An fast Python package and project manager, written in Rust.
 +++

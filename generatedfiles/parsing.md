@@ -2,13 +2,13 @@
 
 % This file is GENERATED. Check the tools on https://nocomplexity.com/ or my github.com/nocomplexity to use it too! Its FOSS. 
 
-::::{grid} 2
+::::{grid} 3
 :class-container: text-center
 :gutter: 2
 
 :::{grid-item-card}
 :link: https://code.launchpad.net/beautifulsoup 
-{octicon}`verified;1em;caption-text` **Beautiful Soup**
+{octicon}`check-circle;1em;caption-text` **Beautiful Soup**
 ^^^
 A program designed for screen-scraping HTML.
 +++
@@ -18,7 +18,7 @@ A program designed for screen-scraping HTML.
 
 :::{grid-item-card}
 :link: https://lxml.de/ 
-{octicon}`briefcase;1em;caption-text` **lxml**
+{octicon}`tag;1em;caption-text` **lxml**
 ^^^
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 +++
