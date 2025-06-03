@@ -33,41 +33,28 @@ Using a notebook for distribution of some code is simple. With JupyterLite only 
 
 To package your code follow this simple directory structure:
 ```
-project_name/
-│
-├── project_name/        # Main package
-│   ├── __init__.py      # Makes the directory a Python package
-│   ├── module1.py       # Core modules
-│   ├── module2.py       # Core modules
-│   ├── utils.py         # Helper functions
-│   └── ...              # Additional package files
-│
-├── tests/               # Test suite
-│   ├── __init__.py      # Optional, makes it a package
-│   ├── test_module1.py  # Tests for module1
-│   ├── test_module2.py  # Tests for module2
-│   └── ...              # Additional test files
-│
-├── scripts/             # Command-line scripts or utilities
-│   ├── script1.py
-│   ├── script2.py
-│   └── ...
-│
-├── docs/                # Documentation
-│   ├── index.md
-│   └── ...              # Additional documentation files
-│
-├── setup.py             # Package installation configuration (if publishing)
-├── pyproject.toml       # Modern build configuration file (PEP 518)
-├── requirements.txt     # List of dependencies
-├── README.md            # Project overview
-├── LICENSE              # License file
-├── .gitignore           # Git ignore file
-└── .env                 # Environment variables (optional)
+myPackageRepoName
+├── CHANGELOG.md               ┐
+├── CODE_OF_CONDUCT.md         │
+├── CONTRIBUTING.md            │
+├── docs                       │ Package documentation
+│   └── index.md
+│   └── ...                    │
+├── LICENSE                    │
+├── README.md                  ┘
+├── pyproject.toml             ] Package metadata and build configuration
+├── src                        ┐
+│   └── myPackage              │
+│       ├── __init__.py        │ Package source code
+│       ├── moduleA.py         │
+│       └── moduleB.py         ┘
+└── tests                      ┐
+   └── ...                     ┘ Package tests
+
 ```
 
 :::{note}
-* For Small Projects: Use `project_name/` to keep things simple.
+* For Small Projects: Consider using only `project_name/` to keep things simple.
 * For Large or Complex Projects: Use `/src/` to prevent accidental import issues and align with best practices for distribution.
 * For Distributable Libraries: Follow the `/src/` structure as recommended by the Python Packaging Guide.
 :::
