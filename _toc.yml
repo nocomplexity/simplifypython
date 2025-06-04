@@ -14,6 +14,8 @@ parts:
     - file: environments
     - file: testing
     - file: packaging
+      sections:
+      - file: packagingtips
     - file: security
     - file: ppreferences
 
