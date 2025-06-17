@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://matplotlib.org/ 
-{octicon}`tag;1em;caption-text` **Matplotlib**
+{octicon}`package;1em;caption-text` **Matplotlib**
 ^^^
 Matplotlib is the defacto Python library to be used for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. You can do everything with matplotlib. 
 +++
@@ -18,7 +18,7 @@ Matplotlib is the defacto Python library to be used for creating static, animate
 
 :::{grid-item-card}
 :link: https://altair-viz.github.io/ 
-{octicon}`report;1em;caption-text` **Vega-Altair**
+{octicon}`zap;1em;caption-text` **Vega-Altair**
 ^^^
 Declarative visualization library for Python. Its simple, friendly and consistent API, built on top of the powerful Vega-Lite grammar. Designed to be used with Pandas.
 +++
@@ -28,7 +28,7 @@ Declarative visualization library for Python. Its simple, friendly and consisten
 
 :::{grid-item-card}
 :link: https://lib.vizzuhq.com/latest/ 
-{octicon}`megaphone;1em;caption-text` **Vizzu**
+{octicon}`book;1em;caption-text` **Vizzu**
 ^^^
 Vizzu is a free, open-source Javascript/C++ library utilizing a generic dataviz engine that generates many types of charts and seamlessly animates between them.
 +++

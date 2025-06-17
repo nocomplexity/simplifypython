@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`telescope;1em;caption-text` **NumFOCUS**
+{octicon}`checklist;1em;caption-text` **NumFOCUS**
 ^^^
 NumFOCUS is to promote open practices in research, data, and scientific computing 
 +++
@@ -17,8 +17,17 @@ NumFOCUS is to promote open practices in research, data, and scientific computin
 
 
 :::{grid-item-card}
+{octicon}`checklist;1em;caption-text` **WheelNext**
+^^^
+WheelNext is an open-source initiative (https://github.com/wheelnext & https://wheelnext.dev/) aiming to improve the user experience in the Python packaging ecosystem, specifically around the scientific computing and machine/deep learning space. We also anticipate benefits in other domains that heavily rely on performance of compiled Python extension modules - the benefit of utilizing one's hardware more optimally is not exclusive to any single domain.
++++
+[Read more or use this reference »](https://wheelnext.dev/)
+:::
+
+
+:::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`book;1em;caption-text` **pyOpenSci**
+{octicon}`project;1em;caption-text` **pyOpenSci**
 ^^^
 Community that supports free and open Python tools for processing scientific data. 
 +++
