@@ -7,8 +7,18 @@
 :gutter: 2
 
 :::{grid-item-card}
+:link: https://pypistats.org/ 
+{octicon}`stack;1em;caption-text` **PyPI Stats**
+^^^
+The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
++++
+[Read more or use this reference »](https://pypistats.org/)
+:::
+
+
+:::{grid-item-card}
 :link: https://pypi.org/ 
-{octicon}`thumbsup;1em;caption-text` **Python packages**
+{octicon}`file;1em;caption-text` **Python packages**
 ^^^
 The Python Package Index (PyPI) is the defacto standard repository of software for the Python programming language.
 +++

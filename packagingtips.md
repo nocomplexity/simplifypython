@@ -300,24 +300,29 @@ Common use and simple is: minor, fix or release
 
 
 
-### 2. Security validation with Bandit
+### 2. Security validation with Python Code Audit
 
 A minimal static security check is the least what is needed! For more complex modules more is needed!
-A simple tool to use is [Bandit](https://nocomplexity.com/documents/securitysolutions/generatedfiles/bandit.html) is simple and straigtforward.
+A simple tool to use is [Python Code Audit](https://nocomplexity.com/codeaudit/) is simple to use, has many **GOOD** validations and is fast! 
 
-Installed bandit in a separate environment. With Python=3.13 version.
+Installation of [Python Code Audit](https://nocomplexity.com/codeaudit/) should be done using `pip`:
 After installing:
 
 ```
-bandit -r [SOURCEDIR] 
+pip install -U codeaudit
+```
+If you have installed Python Codeaudit in the past the `-U` flag automatically retrieves an update with latest checks and features.
+
+Simple and fast is to se the option to scan all files that will be released for packaging:
+
+```
+codeaudit directoryscan <DIRECTORY>  [OUTPUTFILE]
 ```
 
-For a html output report:
-```
-bandit -r -f html [SOURCEDIR] > [module_name_check].html
-```
+`<DIRECTORY>` is mandatory. Codeaudit will create a detailed HTML security scan report for each Python file in the given directory.
 
-Note: Bandit is not perfect, but no tool is! 
+Full documentation of [Python Code Audit](https://nocomplexity.com/codeaudit/) can be found here: [https://nocomplexity.com/documents/codeaudit/intro.html](https://nocomplexity.com/documents/codeaudit/intro.html)
+
 
 ### 3. TEST Coverage
 
