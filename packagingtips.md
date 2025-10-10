@@ -396,6 +396,14 @@ sphinx-apidoc -o . /home/maikel/projects/pythondev/linkaudit/src/linkaudit
 
 [Example of documentation created for a package that includes API documentation](https://nocomplexity.com/documents/linkaudit/intro.html)
 
+:::{note} 
+By default functions (modules) starting with an `_` underscore, so internal functions are not included.
+
+This can be changed, to include all functions in the API-docs generated.
+
+See the [sphinx-api Documentation](https://www.sphinx-doc.org/en/master/usage/extensions/apidoc.html#module-sphinx.ext.apidoc)
+Setting `apidoc_include_private`, default is `False`.
+:::
 
 ### 6. Publish
 
