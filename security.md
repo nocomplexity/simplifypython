@@ -6,7 +6,11 @@ Security is a process that must be embedded within your development flow. At eve
 
 :::{important}
 The bare minimum to do is:
-[Security by design](https://nocomplexity.com/documents/securitybydesign/sdlc.html)
+* [Python Secure Coding Guidelines](https://nocomplexity.com/documents/codeaudit/securecoding.html)
+
+and:
+
+* [Security by design](https://nocomplexity.com/documents/securitybydesign/sdlc.html)
 :::
 
 :::{tip}
