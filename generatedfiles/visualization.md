@@ -18,7 +18,7 @@ Matplotlib is the defacto Python library to be used for creating static, animate
 
 :::{grid-item-card}
 :link: https://altair-viz.github.io/ 
-{octicon}`checklist;1em;caption-text` **Vega-Altair**
+{octicon}`note;1em;caption-text` **Vega-Altair**
 ^^^
 Declarative visualization library for Python. Its simple, friendly and consistent API, built on top of the powerful Vega-Lite grammar. Designed to be used with Pandas.
 +++
@@ -28,7 +28,7 @@ Declarative visualization library for Python. Its simple, friendly and consisten
 
 :::{grid-item-card}
 :link: https://lib.vizzuhq.com/latest/ 
-{octicon}`telescope;1em;caption-text` **Vizzu**
+{octicon}`check-circle;1em;caption-text` **Vizzu**
 ^^^
 Vizzu is a free, open-source Javascript/C++ library utilizing a generic dataviz engine that generates many types of charts and seamlessly animates between them.
 +++
