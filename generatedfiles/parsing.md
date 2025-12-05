@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://code.launchpad.net/beautifulsoup 
-{octicon}`package;1em;caption-text` **Beautiful Soup**
+{octicon}`report;1em;caption-text` **Beautiful Soup**
 ^^^
 A program designed for screen-scraping HTML.
 +++

@@ -296,6 +296,81 @@ len(<dict>)                                     # Find the length of the diction
 
 A dictionary can also contain many dictionaries, this is called nested dictionaries.
 
+### Dictionary unpacking
+
+A double asterisk `**` denotes dictionary unpacking. Its operand must be a mapping. Each mapping item is added to the new dictionary. Later values replace values already set by earlier dict items and earlier dictionary unpackings.
+
+Originally proposed by [PEP 448](https://peps.python.org/pep-0448/).
+
+
+#### Simple Dictionary Unpacking Example
+
+1. Define the Function
+
+```python
+def make_sandwich(protein, cheese, sauce, extras=None):
+    """Prints the ingredients of a customized sandwich."""
+    
+    sandwich = f"A {protein} sandwich"
+    
+    if cheese:
+        sandwich += f" with {cheese}"
+    
+    if sauce:
+        sandwich += f" and {sauce} on it"
+        
+    if extras:
+        sandwich += f" (plus {extras})"
+        
+    print(sandwich)
+```
+
+
+2. Define the Configuration Dictionary
+
+We create a **dictionary** where the **keys** match the **keyword argument names** of the function (`protein`, `cheese`, `sauce`, etc.).
+
+```python
+# Our sandwich configuration stored in a dictionary
+sandwich_settings = {
+    'protein': 'turkey',
+    'cheese': 'provolone',
+    'sauce': 'mayo',
+    'extras': 'lettuce and tomato'
+}
+```
+
+3. Use the Unpacking Operator (`**`)
+
+We call the function and use `**` to unpack the dictionary. The `**` operator turns the dictionary's key-value pairs into individual keyword arguments.
+
+```python
+# Unpack the dictionary into keyword arguments
+make_sandwich(**sandwich_settings)
+```
+
+**Output:**
+
+```
+A turkey sandwich with provolone and mayo on it (plus lettuce and tomato)
+```
+
+**What the `**` Does**
+
+The line `make_sandwich(**sandwich_settings)` is functionally equivalent to writing:
+
+```python
+make_sandwich(
+    protein='turkey',
+    cheese='provolone',
+    sauce='mayo',
+    extras='lettuce and tomato'
+)
+```
+
+The `**` operator is a clean way to pass a dynamic or pre-configured set of arguments to a function.
+
+
 ### Tuple
 
 A tuple is a collection which is ordered, indexed and unchangeable. In Python tuples are written with round brackets.

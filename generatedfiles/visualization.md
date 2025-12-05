@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://matplotlib.org/ 
-{octicon}`heart;1em;caption-text` **Matplotlib**
+{octicon}`hubot;1em;caption-text` **Matplotlib**
 ^^^
 Matplotlib is the defacto Python library to be used for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. You can do everything with matplotlib. 
 +++
@@ -18,7 +18,7 @@ Matplotlib is the defacto Python library to be used for creating static, animate
 
 :::{grid-item-card}
 :link: https://altair-viz.github.io/ 
-{octicon}`note;1em;caption-text` **Vega-Altair**
+{octicon}`pencil;1em;caption-text` **Vega-Altair**
 ^^^
 Declarative visualization library for Python. Its simple, friendly and consistent API, built on top of the powerful Vega-Lite grammar. Designed to be used with Pandas.
 +++

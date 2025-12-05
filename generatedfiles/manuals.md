@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://black.readthedocs.io/en/stable/ 
-{octicon}`bookmark;1em;caption-text` **Black**
+{octicon}`cross-reference;1em;caption-text` **Black**
 ^^^
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. Defacto standard formatter for many projects.
 +++
@@ -18,7 +18,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 :::{grid-item-card}
 :link: https://docs.conda.io/projects/conda/en/stable/ 
-{octicon}`book;1em;caption-text` **Conda Documentation**
+{octicon}`tools;1em;caption-text` **Conda Documentation**
 ^^^
 Conda's documentation! Conda provides package, dependency, and environment management for any language. 
 +++
@@ -38,7 +38,7 @@ Abstract Syntax Trees, ASTs, are a powerful feature of Python. You can write pro
 
 :::{grid-item-card}
 :link: https://hatch.pypa.io/latest/ 
-{octicon}`light-bulb;1em;caption-text` **Hatch**
+{octicon}`eye;1em;caption-text` **Hatch**
 ^^^
 Hatch is a modern, extensible Python project manager. 
 +++
@@ -48,7 +48,7 @@ Hatch is a modern, extensible Python project manager.
 
 :::{grid-item-card}
 :link: https://mamba.readthedocs.io/en/latest/ 
-{octicon}`pencil;1em;caption-text` **Mamba’s documentation**
+{octicon}`heart;1em;caption-text` **Mamba’s documentation**
 ^^^
 Mamba is a fast, robust, and cross-platform package manage
 +++
@@ -58,7 +58,7 @@ Mamba is a fast, robust, and cross-platform package manage
 
 :::{grid-item-card}
 :link: https://nox.thea.codes/en/stable/index.html 
-{octicon}`zap;1em;caption-text` **Nox**
+{octicon}`eye;1em;caption-text` **Nox**
 ^^^
 nox is a command-line tool that automates testing in multiple Python environments, similar to tox. Unlike tox, Nox uses a standard Python file for configuration.
 +++
@@ -68,7 +68,7 @@ nox is a command-line tool that automates testing in multiple Python environment
 
 :::{grid-item-card}
 :link: https://py-pkgs-cookiecutter.readthedocs.io/en/latest/ 
-{octicon}`smiley;1em;caption-text` **Py-Pkgs-Cookiecutter**
+{octicon}`check-circle;1em;caption-text` **Py-Pkgs-Cookiecutter**
 ^^^
 py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Python package using poetry. It supplements the Python Packages book by Tomas Beuzen and Tiffany Timbers but can be used independently.
 +++
@@ -78,7 +78,7 @@ py-pkgs-cookiecutter is a cookiecutter template for creating a fully-featured Py
 
 :::{grid-item-card}
 :link: https://docs.pypi.org/ 
-{octicon}`megaphone;1em;caption-text` **PyPI User Documentation**
+{octicon}`check-circle;1em;caption-text` **PyPI User Documentation**
 ^^^
 PyPI is the official repository of packages for Python. This user documentation is aimed at users who use the PyPI website.
 +++
@@ -88,7 +88,7 @@ PyPI is the official repository of packages for Python. This user documentation 
 
 :::{grid-item-card}
 :link: https://docs.pydantic.dev/latest/ 
-{octicon}`cross-reference;1em;caption-text` **Pydantic**
+{octicon}`tag;1em;caption-text` **Pydantic**
 ^^^
 Data validation using Python type hints.  Fast and extensible, Pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.9+; 
 +++
@@ -98,7 +98,7 @@ Data validation using Python type hints.  Fast and extensible, Pydantic plays ni
 
 :::{grid-item-card}
 :link: https://nocomplexity.com/codeaudit/ 
-{octicon}`telescope;1em;caption-text` **Python Code Audit**
+{octicon}`book;1em;caption-text` **Python Code Audit**
 ^^^
 
 ```{image} https://github.com/nocomplexity/codeaudit/raw/main/docs/images/codeauditlogo.png 
@@ -112,7 +112,7 @@ Python Codeaudit - A modern Python source code analyzer based on distrust.Codeau
 
 :::{grid-item-card}
 :link: https://setuptools.pypa.io/en/latest/userguide/ 
-{octicon}`heart;1em;caption-text` **Setuptools**
+{octicon}`pencil;1em;caption-text` **Setuptools**
 ^^^
 Building and Distributing Packages with Setuptools. If you are not (yet) using Hatch, this is a good manual for using setup tools.
 +++
@@ -122,7 +122,7 @@ Building and Distributing Packages with Setuptools. If you are not (yet) using H
 
 :::{grid-item-card}
 :link: https://typing.python.org/en/latest/ 
-{octicon}`smiley;1em;caption-text` **Static Typing with Python**
+{octicon}`checklist;1em;caption-text` **Static Typing with Python**
 ^^^
 Manual created by The Python Typing Team. Good info about static typing and the relevant PEPs. Including examples.
 +++
@@ -132,7 +132,7 @@ Manual created by The Python Typing Team. Good info about static typing and the 
 
 :::{grid-item-card}
 :link: https://docs.pex-tool.org/ 
-{octicon}`verified;1em;caption-text` **pex**
+{octicon}`note;1em;caption-text` **pex**
 ^^^
 A tool for generating .pex (Python EXecutable) files, lock files and venvs. 
 +++
