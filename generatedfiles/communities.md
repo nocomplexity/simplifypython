@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://conda.org/ 
-{octicon}`cross-reference;1em;caption-text` **Conda Community**
+{octicon}`pencil;1em;caption-text` **Conda Community**
 ^^^
 A community supporting a language-agnostic, multi-platform package management ecosystem for projects of any size and complexity.
 +++
@@ -18,7 +18,7 @@ A community supporting a language-agnostic, multi-platform package management ec
 
 :::{grid-item-card}
 :link: https://jazzband.co/ 
-{octicon}`thumbsup;1em;caption-text` **Jazzband**
+{octicon}`file;1em;caption-text` **Jazzband**
 ^^^
 Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
 +++
@@ -27,8 +27,22 @@ Jazzband is a collaborative community to share the responsibility of maintaining
 
 
 :::{grid-item-card}
+:link: https://numfocus.org/ 
+{octicon}`checklist;1em;caption-text` **NumFOCUS**
+^^^
+
+```{image} https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png 
+:height: 100px 
+```
+Better tools to build a better world.From Netflix to NASA, researchers use our open source tools to solve the most challenging problems.
++++
+[Read more or use this reference »](https://numfocus.org/)
+:::
+
+
+:::{grid-item-card}
 :link: https://palletsprojects.com/ 
-{octicon}`hubot;1em;caption-text` **Pallets**
+{octicon}`megaphone;1em;caption-text` **Pallets**
 ^^^
 Pallets is the open source community organization that develops and supports popular Python frameworks. 
 +++
@@ -48,7 +62,7 @@ PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 
 :::{grid-item-card}
 :link: https://docs-community.readthedocs.io/index.html 
-{octicon}`eye;1em;caption-text` **Python Documentation Community**
+{octicon}`stack;1em;caption-text` **Python Documentation Community**
 ^^^
 The Documentation Team will be contributors to documentation who participate regularly to CPython documentation and monthly meetings (synchronously or asynchronously). A goal of this team will be to build a global community around CPython documentation.
 +++
@@ -58,7 +72,7 @@ The Documentation Team will be contributors to documentation who participate reg
 
 :::{grid-item-card}
 :link: https://scientific-python.org 
-{octicon}`tag;1em;caption-text` **The Scientific Python project**
+{octicon}`check-circle;1em;caption-text` **The Scientific Python project**
 ^^^
 The scientific Python ecosystem is a loose federation of community-developed and -owned Python projects widely used in scientific research, technical computing, and data science. 
 +++

@@ -161,3 +161,6 @@ Of course mind the environment you use for installation.
 
 
 
+## TIP: Update Python with conda for an environment
+
+[Update Python Version using Conda](updatepython)

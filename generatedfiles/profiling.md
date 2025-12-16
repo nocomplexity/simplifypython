@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://bloomberg.github.io/memray/ 
-{octicon}`cross-reference;1em;caption-text` **Memray**
+{octicon}`project;1em;caption-text` **Memray**
 ^^^
 
 ```{image} https://raw.githubusercontent.com/bloomberg/memray/main/docs/_static/images/logo.png 
