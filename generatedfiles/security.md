@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://nocomplexity.com/codeaudit/ 
-{octicon}`verified;1em;caption-text` **Python Code Audit**
+{octicon}`briefcase;1em;caption-text` **Python Code Audit**
 ^^^
 
 ```{image} https://github.com/nocomplexity/codeaudit/raw/main/docs/images/codeauditlogo.png 

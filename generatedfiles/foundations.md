@@ -8,9 +8,13 @@
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`cross-reference;1em;caption-text` **NumFOCUS**
+{octicon}`tools;1em;caption-text` **NumFOCUS**
 ^^^
-NumFOCUS is to promote open practices in research, data, and scientific computing 
+
+```{image} https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png 
+:height: 100px 
+```
+Better tools to build a better world. NumFOCUS is to promote open practices in research, data, and scientific computing.From Netflix to NASA, researchers use our open source tools to solve the most challenging problems.
 +++
 [Read more or use this reference »](https://numfocus.org/)
 :::
@@ -27,7 +31,7 @@ WheelNext is an open-source initiative (https://github.com/wheelnext & https://w
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`briefcase;1em;caption-text` **pyOpenSci**
+{octicon}`check-circle;1em;caption-text` **pyOpenSci**
 ^^^
 Community that supports free and open Python tools for processing scientific data. 
 +++

@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://code.launchpad.net/beautifulsoup 
-{octicon}`telescope;1em;caption-text` **Beautiful Soup**
+{octicon}`package;1em;caption-text` **Beautiful Soup**
 ^^^
 A program designed for screen-scraping HTML.
 +++
@@ -18,11 +18,24 @@ A program designed for screen-scraping HTML.
 
 :::{grid-item-card}
 :link: https://lxml.de/ 
-{octicon}`checklist;1em;caption-text` **lxml**
+{octicon}`note;1em;caption-text` **lxml**
 ^^^
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 +++
 [Read more or use this reference »](https://lxml.de/)
+:::
+
+
+:::{grid-item-card}
+{octicon}`project;1em;caption-text` **msgspec**
+^^^
+
+```{image} https://raw.githubusercontent.com/jcrist/msgspec/main/docs/_static/msgspec-logo-light.svg 
+:height: 100px 
+```
+msgspec is a fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML. Sources on https://github.com/jcrist/msgspec
++++
+[Read more or use this reference »](https://jcristharif.com/msgspec/index.html)
 :::
 
 

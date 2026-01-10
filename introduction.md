@@ -23,4 +23,4 @@ Almost every typical programming problem you can think of, is already solved wit
 :::
 
 
-I created this publication for myself. Despite the great [open access books](generatedfiles/overview) available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes is [an art](https://nocomplexity.com/business/) and can take lot of effort. 
+I created this publication for myself. Despite the great [open access books](generatedfiles/overview) available, I missed a simple resources on Python that covers aspects behind the basics. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple is [an art](https://nocomplexity.com/business/) and can take lot of effort. 
