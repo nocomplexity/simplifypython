@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://code.launchpad.net/beautifulsoup 
-{octicon}`package;1em;caption-text` **Beautiful Soup**
+{octicon}`tag;1em;caption-text` **Beautiful Soup**
 ^^^
 A program designed for screen-scraping HTML.
 +++
@@ -18,7 +18,7 @@ A program designed for screen-scraping HTML.
 
 :::{grid-item-card}
 :link: https://lxml.de/ 
-{octicon}`note;1em;caption-text` **lxml**
+{octicon}`report;1em;caption-text` **lxml**
 ^^^
 lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
 +++
@@ -27,7 +27,7 @@ lxml is the most feature-rich and easy-to-use library for processing XML and HTM
 
 
 :::{grid-item-card}
-{octicon}`project;1em;caption-text` **msgspec**
+{octicon}`heart;1em;caption-text` **msgspec**
 ^^^
 
 ```{image} https://raw.githubusercontent.com/jcrist/msgspec/main/docs/_static/msgspec-logo-light.svg 

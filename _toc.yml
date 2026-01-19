@@ -17,9 +17,13 @@ parts:
     - file: testing
     - file: packaging
       sections:
-      - file: packagingtips
-    - file: security
+      - file: packagingtips    
     - file: ppreferences
+
+  - caption: Python Security
+    chapters:
+    - file: security
+    - file: security/traversalattacks
 
   - caption: Python Basics
     chapters:

@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://black.readthedocs.io/en/stable/ 
-{octicon}`stack;1em;caption-text` **Black**
+{octicon}`light-bulb;1em;caption-text` **Black**
 ^^^
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. Defacto standard formatter for many projects.
 +++
@@ -18,7 +18,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 :::{grid-item-card}
 :link: https://docs.python.org 
-{octicon}`telescope;1em;caption-text` **Official Python documentation**
+{octicon}`file;1em;caption-text` **Official Python documentation**
 ^^^
 The source for the official documentation. Always up-to-date.
 +++
@@ -28,7 +28,7 @@ The source for the official documentation. Always up-to-date.
 
 :::{grid-item-card}
 :link: https://peps.python.org/ 
-{octicon}`heart;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+{octicon}`tools;1em;caption-text` **Python Enhancement Proposals (PEPs)**
 ^^^
 This PEP contains the index of all Python Enhancement Proposals (PEPs)
 +++
@@ -38,7 +38,7 @@ This PEP contains the index of all Python Enhancement Proposals (PEPs)
 
 :::{grid-item-card}
 :link: https://packaging.python.org/en/latest/ 
-{octicon}`telescope;1em;caption-text` **Python Packaging User Guide**
+{octicon}`checklist;1em;caption-text` **Python Packaging User Guide**
 ^^^
 A collection of tutorials and references to help you distribute and install Python packages with modern tools.
 +++
@@ -48,7 +48,7 @@ A collection of tutorials and references to help you distribute and install Pyth
 
 :::{grid-item-card}
 :link: https://docs.python.org/3/reference/index.html 
-{octicon}`file;1em;caption-text` **The Python Language Reference**
+{octicon}`hubot;1em;caption-text` **The Python Language Reference**
 ^^^
 This reference manual describes the syntax and “core semantics” of the language.
 +++
@@ -58,7 +58,7 @@ This reference manual describes the syntax and “core semantics” of the langu
 
 :::{grid-item-card}
 :link: https://pip.pypa.io/en/stable/ 
-{octicon}`cross-reference;1em;caption-text` **pip**
+{octicon}`verified;1em;caption-text` **pip**
 ^^^
 pip is the package installer for Python.
 +++

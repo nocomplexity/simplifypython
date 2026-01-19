@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://github.com/hoffstadt/DearPyGui 
-{octicon}`smiley;1em;caption-text` **Dear PyGui**
+{octicon}`light-bulb;1em;caption-text` **Dear PyGui**
 ^^^
 A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 +++
@@ -18,7 +18,7 @@ A fast and powerful Graphical User Interface Toolkit for Python with minimal dep
 
 :::{grid-item-card}
 :link: https://github.com/google/python-fire 
-{octicon}`cross-reference;1em;caption-text` **Fire**
+{octicon}`note;1em;caption-text` **Fire**
 ^^^
 Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. Is is the simpelest way to create a CLI application!
 +++
@@ -28,7 +28,7 @@ Python Fire is a library for automatically generating command line interfaces (C
 
 :::{grid-item-card}
 :link: https://google.github.io/mesop/ 
-{octicon}`light-bulb;1em;caption-text` **Mesop**
+{octicon}`thumbsup;1em;caption-text` **Mesop**
 ^^^
 Rapidly build AI apps in Python. With Google FOSS software.
 +++
@@ -38,7 +38,7 @@ Rapidly build AI apps in Python. With Google FOSS software.
 
 :::{grid-item-card}
 :link: https://github.com/bczsalba/pytermgui 
-{octicon}`briefcase;1em;caption-text` **PyTermGUI**
+{octicon}`zap;1em;caption-text` **PyTermGUI**
 ^^^
 Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! 
 +++
@@ -48,7 +48,7 @@ Python TUI framework with mouse support, modular widget system, customizable and
 
 :::{grid-item-card}
 :link: https://github.com/prompt-toolkit/python-prompt-toolkit 
-{octicon}`check-circle;1em;caption-text` **Python Prompt Toolkit**
+{octicon}`heart;1em;caption-text` **Python Prompt Toolkit**
 ^^^
 Library for building powerful interactive command line applications in Python
 +++
@@ -58,7 +58,7 @@ Library for building powerful interactive command line applications in Python
 
 :::{grid-item-card}
 :link: https://github.com/reflex-dev/reflex 
-{octicon}`book;1em;caption-text` **Reflex**
+{octicon}`smiley;1em;caption-text` **Reflex**
 ^^^
 Web apps in pure Python
 +++
@@ -68,7 +68,7 @@ Web apps in pure Python
 
 :::{grid-item-card}
 :link: https://github.com/Textualize/rich 
-{octicon}`briefcase;1em;caption-text` **Rich**
+{octicon}`checklist;1em;caption-text` **Rich**
 ^^^
 Rich is a Python library for rich text and beautiful formatting in the terminal.
 +++
@@ -78,7 +78,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 :::{grid-item-card}
 :link: https://typer.tiangolo.com/ 
-{octicon}`eye;1em;caption-text` **Typer**
+{octicon}`heart;1em;caption-text` **Typer**
 ^^^
 Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python type hints.
 +++

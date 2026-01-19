@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://developers.google.com/edu/python 
-{octicon}`book;1em;caption-text` **Google's Python Class**
+{octicon}`heart;1em;caption-text` **Google's Python Class**
 ^^^
 Free online course book for people with a little bit of programming experience who want to learn Python
 +++
@@ -18,7 +18,7 @@ Free online course book for people with a little bit of programming experience w
 
 :::{grid-item-card}
 :link: https://lectures.scientific-python.org/index.html 
-{octicon}`file;1em;caption-text` **Scientific Python Lectures**
+{octicon}`tools;1em;caption-text` **Scientific Python Lectures**
 ^^^
 
 ```{image} https://lectures.scientific-python.org/_static/logo.png 
@@ -32,7 +32,7 @@ Tutorials on the scientific Python ecosystem: a quick introduction to central to
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`briefcase;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`eye;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++

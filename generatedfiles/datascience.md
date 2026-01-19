@@ -7,7 +7,7 @@
 :gutter: 2
 
 :::{grid-item-card}
-{octicon}`light-bulb;1em;caption-text` **Foundations of Data Science with Python**
+{octicon}`tools;1em;caption-text` **Foundations of Data Science with Python**
 ^^^
 
 ```{image} https://github.com/jmshea/Foundations-of-Data-Science-with-Python/raw/main/images/3d-book.png 
@@ -21,7 +21,7 @@ Learn data visualization, statistics, probability, and dimensionality reduction 
 
 :::{grid-item-card}
 :link: https://learningds.org/intro.html 
-{octicon}`pencil;1em;caption-text` **Learning Data Science**
+{octicon}`heart;1em;caption-text` **Learning Data Science**
 ^^^
 Principles and Techniques of Data Science: This open book is tailored for ML! (Python numpy, classification  etc)
 +++
