@@ -6,7 +6,7 @@ Every high-quality threat model starts with a clearly defined scope.
 
 This helps establish a clean separation between **Python-specific security threats** (those tied to the language, its standard library, or common Python idioms) and **general threats** (those that could affect software regardless of implementation language).
 
-**Scope**:  
+**In Scope**:  
 This threat model covers **a software program written in Python**.  
 
 The Python program may provide functionality in one or both of the following ways:  
@@ -14,7 +14,6 @@ The Python program may provide functionality in one or both of the following way
 - directly, by delivering end-user functionality (CLI tool, GUI application, web service, script, etc.).
 
 This scope intentionally excludes:
-- pure Python applications that are merely *consumers* of other libraries/frameworks (unless the consumer introduces novel attack surfaces relevant to Python),
 - non-Python components or ecosystems (C extensions are considered only to the extent that they interact with the Python layer in a security-relevant way).
 
 
