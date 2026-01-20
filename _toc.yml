@@ -22,7 +22,12 @@ parts:
 
   - caption: Python Security
     chapters:
-    - file: security
+    - file: security/secintro
+    - file: security/fundamentals
+      sections:
+      - file: security/executionmodel
+      - file: security/threatmodel
+      - file: security/attacklandscape
     - file: security/traversalattacks
 
   - caption: Python Basics
