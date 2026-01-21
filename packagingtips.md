@@ -435,7 +435,9 @@ pip [install your_package] --index-url https://test.pypi.org/[name]/ --extra-ind
 
 2. Create a new version: `hatch version fix` for a fix version
 
-3. Just do: `hatch publish` from the correct directory.
+3. Do: `hatch build` from the correct directory.
+
+4. Just do: `hatch publish` from the correct directory.
 
 Example when updating `linkaudit` package on PYPI:
 
