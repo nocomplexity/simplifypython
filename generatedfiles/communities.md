@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://conda.org/ 
-{octicon}`pencil;1em;caption-text` **Conda Community**
+{octicon}`light-bulb;1em;caption-text` **Conda Community**
 ^^^
 A community supporting a language-agnostic, multi-platform package management ecosystem for projects of any size and complexity.
 +++
@@ -18,7 +18,7 @@ A community supporting a language-agnostic, multi-platform package management ec
 
 :::{grid-item-card}
 :link: https://jazzband.co/ 
-{octicon}`telescope;1em;caption-text` **Jazzband**
+{octicon}`thumbsup;1em;caption-text` **Jazzband**
 ^^^
 Jazzband is a collaborative community to share the responsibility of maintaining Python-based projects.
 +++
@@ -28,7 +28,7 @@ Jazzband is a collaborative community to share the responsibility of maintaining
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`hubot;1em;caption-text` **NumFOCUS**
+{octicon}`briefcase;1em;caption-text` **NumFOCUS**
 ^^^
 
 ```{image} https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png 
@@ -42,7 +42,7 @@ Better tools to build a better world. NumFOCUS is to promote open practices in r
 
 :::{grid-item-card}
 :link: https://palletsprojects.com/ 
-{octicon}`tag;1em;caption-text` **Pallets**
+{octicon}`checklist;1em;caption-text` **Pallets**
 ^^^
 Pallets is the open source community organization that develops and supports popular Python frameworks. 
 +++
@@ -51,7 +51,7 @@ Pallets is the open source community organization that develops and supports pop
 
 
 :::{grid-item-card}
-{octicon}`check-circle;1em;caption-text` **Pangeo**
+{octicon}`briefcase;1em;caption-text` **Pangeo**
 ^^^
 
 ```{image} https://pangeo.io/Pangeo-assets/Icon/Pangeo-Icon.svg 
@@ -65,7 +65,7 @@ Pangeo is first and foremost a community promoting open, reproducible, and scala
 
 :::{grid-item-card}
 :link: https://pydata.org/ 
-{octicon}`stack;1em;caption-text` **PyData**
+{octicon}`check-circle;1em;caption-text` **PyData**
 ^^^
 PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 +++
@@ -75,7 +75,7 @@ PyData is an educational program of NumFOCUS, a 501(c)(3) nonprofit charity.
 
 :::{grid-item-card}
 :link: https://docs-community.readthedocs.io/index.html 
-{octicon}`book;1em;caption-text` **Python Documentation Community**
+{octicon}`pencil;1em;caption-text` **Python Documentation Community**
 ^^^
 The Documentation Team will be contributors to documentation who participate regularly to CPython documentation and monthly meetings (synchronously or asynchronously). A goal of this team will be to build a global community around CPython documentation.
 +++
@@ -85,7 +85,7 @@ The Documentation Team will be contributors to documentation who participate reg
 
 :::{grid-item-card}
 :link: https://scientific-python.org 
-{octicon}`pencil;1em;caption-text` **The Scientific Python project**
+{octicon}`bookmark;1em;caption-text` **The Scientific Python project**
 ^^^
 The scientific Python ecosystem is a loose federation of community-developed and -owned Python projects widely used in scientific research, technical computing, and data science. 
 +++

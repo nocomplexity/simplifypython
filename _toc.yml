@@ -29,6 +29,7 @@ parts:
       - file: security/threatmodel
       - file: security/attacklandscape
     - file: security/traversalattacks
+    - file: security/path_module
 
   - caption: Python Basics
     chapters:

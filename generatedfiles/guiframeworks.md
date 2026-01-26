@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://github.com/lona-web-org/lona 
-{octicon}`smiley;1em;caption-text` **Lona**
+{octicon}`megaphone;1em;caption-text` **Lona**
 ^^^
 Write responsive web apps in full python 
 +++
@@ -18,7 +18,7 @@ Write responsive web apps in full python
 
 :::{grid-item-card}
 :link: https://github.com/web2py/py4web 
-{octicon}`book;1em;caption-text` **PY4WEB**
+{octicon}`cross-reference;1em;caption-text` **PY4WEB**
 ^^^
 PY4WEB is a web framework for the rapid development of efficient database driven web applications. It is an evolution of the popular web2py framework but much faster and slicker.
 +++
@@ -27,8 +27,22 @@ PY4WEB is a web framework for the rapid development of efficient database driven
 
 
 :::{grid-item-card}
+:link: https://panel.holoviz.org/index.html 
+{octicon}`briefcase;1em;caption-text` **Panel**
+^^^
+
+```{image} https://panel.holoviz.org/_images/logo_horizontal_light_theme.png 
+:height: 100px 
+```
+Panel is an open-source Python library designed to streamline the development of robust tools, dashboards, and complex applications entirely within Python.
++++
+[Read more or use this reference »](https://panel.holoviz.org/index.html)
+:::
+
+
+:::{grid-item-card}
 :link: https://github.com/posit-dev/py-shiny/ 
-{octicon}`light-bulb;1em;caption-text` **Shiny**
+{octicon}`tools;1em;caption-text` **Shiny**
 ^^^
 Build fast, beautiful web applications in Python.
 +++

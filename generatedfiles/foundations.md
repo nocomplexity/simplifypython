@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`light-bulb;1em;caption-text` **NumFOCUS**
+{octicon}`cross-reference;1em;caption-text` **NumFOCUS**
 ^^^
 
 ```{image} https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png 
@@ -31,7 +31,7 @@ WheelNext is an open-source initiative (https://github.com/wheelnext & https://w
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`thumbsup;1em;caption-text` **pyOpenSci**
+{octicon}`note;1em;caption-text` **pyOpenSci**
 ^^^
 Community that supports free and open Python tools for processing scientific data. 
 +++
