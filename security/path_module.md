@@ -40,29 +40,44 @@ binary_data = Path(user_input).read_bytes()
 
 The gold standard for securing `Path` objects is **Path Anchoring**. This involves resolving the absolute path and verifying that it remains a child of a trusted base directory.
 
+
+
 ```python
 from pathlib import Path
 
-# 1. Define and resolve a trusted base directory
-base_dir = Path("/app/data").resolve()
-user_input = "../../etc/passwd" 
+# In 3.13, Path.resolve() is even faster and more robust with symlinks
+base_dir = Path("/app/data").resolve(strict=True)
+user_input = "../../etc/passwd"
 
-# 2. Join input with base and resolve to eliminate '../' and symlinks
-target_path = (base_dir / user_input).resolve()
+# Use 'walk_up=False' logic (simulated or via new Path features)
+try:
+    # 1. Join and resolve
+    # 3.13 handles internal caching of resolved paths better for performance
+    target_path = base_dir.joinpath(user_input.lstrip("/")).resolve(strict=True)
 
-# 3. Security Check: Ensure the resolved path is inside the base directory
-if base_dir in target_path.parents:
-    # 4. Resource Check: Prevent DoS by limiting file size (e.g., 10MB)
-    if target_path.exists() and target_path.stat().st_size < 10_000_000:
-        data = target_path.read_text(encoding="utf-8", errors="strict")
-else:
-    raise PermissionError("Access Denied: Path escape detected.")
+    # 2. The 3.13+ preferred way to check boundaries
+    if not target_path.is_relative_to(base_dir):
+        raise PermissionError("Path traversal attempt blocked.")
 
+    # 3. Use the new 'tail' or slicing if needed, but is_relative_to remains the 3.13 standard
+    print(f"Safe to access: {target_path}")
+
+except (OSError, ValueError) as e:
+    # 3.13 provides more descriptive error types for resolution failures
+    print(f"Invalid path or access error: {e}")
 ```
+
 
 ## Discussion
 
 Securing `pathlib` is less about the module itself and more about the implementation logic. 
+
+In Python 3.9+, `.is_relative_to()` was introduced specifically to make such a check more readable and robust.
+
+In Python 3.13, many `pathlib` methods (like `glob`) and specifically the `Path.realpath()` function were updated, but the biggest highlight for security enthusiasts is the enhanced `Path.is_relative_to()` logic and the way `pathlib.Path` handles "jumping" roots.
+
+If you are dealing with archives or complex directory structures—is you should be using the `os.path.is_relative_to` logic which is created for better performance.
+
 
 **The `.resolve()` method is the most critical line of defence**; it canonicalizes the path, meaning it resolves all symbolic links and removes `..` components before you perform your validation check.
 
