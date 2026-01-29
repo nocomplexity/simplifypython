@@ -28,8 +28,12 @@ parts:
       - file: security/executionmodel
       - file: security/threatmodel
       - file: security/attacklandscape
+  
+  - caption: Practical Python Security
+    chapters:
     - file: security/traversalattacks
     - file: security/path_module
+    - file: security/assert_use
 
   - caption: Python Basics
     chapters:
