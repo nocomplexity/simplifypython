@@ -1,9 +1,9 @@
-# Limitations of AI and LLMs in Python SAST
+# Limitations of AI and LLMs for Python SAST tools
 
 
 ML/AI solutions are not applicable to every problem. Validating Python code on security weakness is a area where using ML/AI technology should only be applied with care. 
 
-Many SAST scanners for Python code claim perfect results with the use of AI technology. Often marketing, but recent years there is an explosion of:
+Many SAST (Static Application Security Testing) scanners for Python code claim perfect results with the use of AI technology. Often marketing, but recent years there is an explosion of:
 - SAST scanners created with AI vibe-coding tools and
 - SAST scanners that use AI agents for scanning your code. 
 
@@ -35,6 +35,10 @@ Disadvantages of AI powered SAST scanners:
 
 - Unlike traditional software governed by explicit, deterministic logic, **AI/ML models are probabilistic**. This means that even with identical input code, outcomes can vary due to stochastic (random) processes during training, parallel processing on hardware, and the use of 'temperature' or 'seeds' in generative outputs.
 
++++
+- Because Python is an interpreted, late-binding language, static analysis is already difficult. **LLMs add a layer of "guessing"** to a problem that usually requires strict mathematical proof.
+
+
 
 :::{danger} 
 So DO NOT rely on SAST scanners that are powered by AI-agents / LLM systems to solve your cyber security problems! AI agents are still struggling to write secure code.
@@ -44,6 +48,7 @@ So DO NOT rely on SAST scanners that are powered by AI-agents / LLM systems to s
 
 
 AI solutions that are built upon LLMs for cyber security problems are still far from mature. HIDS systems (Host Intrusion Detection Systems) have a long history of applying ML technologies as well as spam-filters. Creating security products that ‘learns’ from patterns is not new for security. AI/ML technologies have been applied for many years for HIDS systems and spam-filters. Applying AI for cyber security has been done for many years with variable success. 
+
 
 
 AI/ML technologies can and do help with cyber security, especially with DAST (Dynamic Application Security Testing) and creating better fuzzers. Cyber security professionals should be conservative with adopting new IT hypes for security testing tools. IT hypes like AI-agents and LLMs are not the holy grail for solving our cyber security problems. This is because in the end you always pay more for cyber security solutions, but the risks still remain. Cyber security is not a product, but a process. 
