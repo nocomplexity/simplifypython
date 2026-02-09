@@ -28,6 +28,7 @@ parts:
       - file: security/executionmodel
       - file: security/threatmodel
       - file: security/attacklandscape
+    - file: security/limitations_of_AI
   
   - caption: Practical Python Security
     chapters:
