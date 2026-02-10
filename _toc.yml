@@ -32,6 +32,7 @@ parts:
   
   - caption: Practical Python Security
     chapters:
+    - file: security/openfile
     - file: security/traversalattacks
     - file: security/path_module
     - file: security/assert_use
