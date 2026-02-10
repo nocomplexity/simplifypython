@@ -57,6 +57,17 @@ def get_file_safe(user_input: str, safe_directory: str = "data_folder") -> str:
 
 Neither `open()` nor `pathlib` automatically “jails” execution to a specific directory.
 
+Overview:
+
+| Feature               | open(path)                     | Path(path).read_text()           |
+|-----------------------|--------------------------------|----------------------------------|
+| Path Traversal Risk   | High                           | High                             |
+| Encoding Handling     | Implicit (OS-dependent)        | **Explicit (secure default)**        |
+| Logic Errors          | **Easy to forget `f.close()`**     | Handles closing automatically   |
+| Input Sanitisation    | None                           | None                             |
+
+
+
 `pathlib.Path` is generally considered more secure in a broad sense because it encourages better coding practices that reduce accidental errors—though not solely because of path security. Using `pathlib` is the **modern approach** to file handling in Python.
 
 Key advantages include:
