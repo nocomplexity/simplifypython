@@ -4,3 +4,6 @@ This chapter provides a comprehensive exploration of the security mechanics inhe
 
 The focus then shifts outward to the Python Attack Landscape, examining the external risks posed by the modern software supply chain and third-party dependencies. By understanding this environment, we categorise specific Python Security Threats. 
 
+
+
+```{tableofcontents}
