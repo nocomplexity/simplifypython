@@ -1,5 +1,12 @@
 # Python Threat Model
 
+Threat modelling is the process of identifying and analysing potential security threats and vulnerabilities in a system, application, or network.
+
+To mitigate potential security risks with a balanced budget, security threat modelling is critical. 
+
+Python is an interpreted general-purpose computer language. Using Python programs or creating Python software in a secure way requires insight into all potential security threats.
+
+
 ## Scope
 
 Every high-quality threat model starts with a clearly defined scope.
