@@ -1,4 +1,4 @@
-# pip-audit: Checking a Python Environment 
+# pip-audit: Python Environment Validation
 
 An essential tool to assess your environment for known vulnerable dependencies is vital. A practical Python specific tool for this purpose is `pip-audit`.
 
@@ -11,7 +11,7 @@ An essential tool to assess your environment for known vulnerable dependencies i
 
 ## What pip-audit Does — and Does Not Do
 
-`pip-audit` analyses dependency trees, not source code. It identifies known vulnerabilities in package versions, but it does not perform static code analysis and does not examine your application logic.
+`pip-audit` analyses **dependency trees**, not source code. It identifies known vulnerabilities in package versions, but it does not perform static code analysis and does not examine your application logic. 
 
 It is important to understand its limitations:
 
@@ -68,7 +68,6 @@ pip-audit -r requirements.txt
 
 This checks the resolved dependency set similarly to installing the requirements, but in an isolated context to minimise conflicts with your current environment.
 
----
 
 ## Using pip-audit in Security Testing
 
@@ -86,4 +85,4 @@ It is best combined with:
 * Software composition analysis (SCA) processes
 * Regular dependency updates
 
-In short, `pip-audit` helps you identify *known* risks in your dependency tree, but it should be part of a broader, defence-in-depth security testing strategy rather than relied upon as a single line of defence.
+`pip-audit` helps to identify *known* risks in your dependency tree, but it should be part of a broader, defence-in-depth security testing strategy rather than relied upon as a single line of defence.
