@@ -29,6 +29,9 @@ parts:
       - file: security/threatmodel
       - file: security/attacklandscape
     - file: security/limitations_of_AI
+    - file: security/tools
+      sections:
+      - file: security/pip_audit
   
   - caption: Practical Python Security
     chapters:
