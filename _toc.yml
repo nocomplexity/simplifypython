@@ -28,6 +28,7 @@ parts:
       - file: security/executionmodel
       - file: security/threatmodel
       - file: security/attacklandscape
+    - file: security/data_exfiltration_detection
     - file: security/limitations_of_AI
     - file: security/tools
       sections:
@@ -39,6 +40,7 @@ parts:
     - file: security/traversalattacks
     - file: security/path_module
     - file: security/assert_use
+    - file: security/howto_detect_data_egress
 
   - caption: Python Basics
     chapters:
