@@ -5,7 +5,7 @@ Detecting potential data exfiltration caused by Python programs is important.
 :::{danger} 
 Detecting Data Exfiltration in Python Code that Uses Telemetry, Remote Analytics, and SaaS Integrations
 
-An essential step in **mitigating security risks**.
+This is an essential step in **mitigating security risks**.
 :::
 
 
@@ -73,6 +73,6 @@ Every external API endpoint is a potential point of failure.
 
 Data sent to a third party is only as secure as their defenses.
 
-- Loss of Custody: Once data leaves your perimeter, you lose the ability to protect it.
+- **Loss of Custody**: Once data leaves your perimeter, you lose the ability to protect it.
 - **Transparency Gaps:** You are dependent on the provider to detect and report breaches—a process that often takes months.
 
