@@ -7,6 +7,20 @@
 :gutter: 2
 
 :::{grid-item-card}
+:link: https://bdi475.github.io/textbook/ 
+{octicon}`hubot;1em;caption-text` **BDI 475**
+^^^
+
+```{image} https://bdi475.github.io/textbook/build/site_logo-6a601c5f74c6f31ab067e6a207131bf8.svg 
+:height: 100px 
+```
+Online textbook for BDI 475 - Introduction to Data Analytics Applications in Business, a course offered by the University of Illinois Urbana-Champaign. The course is designed to introduce students to the fundamentals of data analytics and its applications in business contexts.
++++
+[Read more or use this reference »](https://bdi475.github.io/textbook/)
+:::
+
+
+:::{grid-item-card}
 :link: https://developers.google.com/edu/python 
 {octicon}`briefcase;1em;caption-text` **Google's Python Class**
 ^^^
@@ -18,7 +32,7 @@ Free online course book for people with a little bit of programming experience w
 
 :::{grid-item-card}
 :link: https://lectures.scientific-python.org/index.html 
-{octicon}`thumbsup;1em;caption-text` **Scientific Python Lectures**
+{octicon}`stack;1em;caption-text` **Scientific Python Lectures**
 ^^^
 
 ```{image} https://lectures.scientific-python.org/_static/logo.png 
@@ -32,7 +46,7 @@ Tutorials on the scientific Python ecosystem: a quick introduction to central to
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`note;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`megaphone;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++

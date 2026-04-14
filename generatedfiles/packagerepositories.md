@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://pepy.tech/ 
-{octicon}`telescope;1em;caption-text` **PyPI Package Statistics & Analytics**
+{octicon}`book;1em;caption-text` **PyPI Package Statistics & Analytics**
 ^^^
 
 ```{image} https://github.com/psincraian/pepy/raw/master/docs/logo.png 
@@ -22,7 +22,7 @@ pepy is a site to get statistics information about any Python package.
 
 :::{grid-item-card}
 :link: https://pypistats.org/ 
-{octicon}`project;1em;caption-text` **PyPI Stats**
+{octicon}`check-circle;1em;caption-text` **PyPI Stats**
 ^^^
 The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
 +++
@@ -42,7 +42,7 @@ The Python Package Index (PyPI) is the defacto standard repository of software f
 
 :::{grid-item-card}
 :link: https://conda-forge.org/ 
-{octicon}`file;1em;caption-text` **conda-forge**
+{octicon}`package;1em;caption-text` **conda-forge**
 ^^^
 Community-led recipes, infrastructure and distributions for conda.
 +++

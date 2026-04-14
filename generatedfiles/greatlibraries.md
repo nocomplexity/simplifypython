@@ -7,8 +7,22 @@
 :gutter: 2
 
 :::{grid-item-card}
+:link: https://www.optiland.org/ 
+{octicon}`stack;1em;caption-text` **Optiland**
+^^^
+
+```{image} https://github.com/optiland/optiland/raw/master/docs/images/optiland.svg 
+:height: 100px 
+```
+Optiland is a Python package for lens design and optimization. Model optical systems, trace rays, analyze aberrations, and optimize designs — all in code.
++++
+[Read more or use this reference »](https://www.optiland.org/)
+:::
+
+
+:::{grid-item-card}
 :link: https://scipy.org/ 
-{octicon}`project;1em;caption-text` **SciPy**
+{octicon}`note;1em;caption-text` **SciPy**
 ^^^
 
 ```{image} https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg 
@@ -22,7 +36,7 @@ Fundamental algorithms for scientific computing in Python
 
 :::{grid-item-card}
 :link: https://www.sympy.org/en/index.html 
-{octicon}`checklist;1em;caption-text` **SymPy**
+{octicon}`telescope;1em;caption-text` **SymPy**
 ^^^
 
 ```{image} https://www.sympy.org/static/images/logo.png 

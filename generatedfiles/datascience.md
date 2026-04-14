@@ -7,7 +7,7 @@
 :gutter: 2
 
 :::{grid-item-card}
-{octicon}`zap;1em;caption-text` **Foundations of Data Science with Python**
+{octicon}`tag;1em;caption-text` **Foundations of Data Science with Python**
 ^^^
 
 ```{image} https://github.com/jmshea/Foundations-of-Data-Science-with-Python/raw/main/images/3d-book.png 
