@@ -22,7 +22,7 @@ Online textbook for BDI 475 - Introduction to Data Analytics Applications in Bus
 
 :::{grid-item-card}
 :link: https://developers.google.com/edu/python 
-{octicon}`briefcase;1em;caption-text` **Google's Python Class**
+{octicon}`package;1em;caption-text` **Google's Python Class**
 ^^^
 Free online course book for people with a little bit of programming experience who want to learn Python
 +++
@@ -31,8 +31,22 @@ Free online course book for people with a little bit of programming experience w
 
 
 :::{grid-item-card}
+:link: https://securitytesting.nocomplexity.com/ 
+{octicon}`telescope;1em;caption-text` **Mastering Security Testing for Python**
+^^^
+
+```{image} https://securitytesting.nocomplexity.com/build/ca_logo_small-77e6985c93090787021b23a80c7258a9.png 
+:height: 100px 
+```
+In this course, you will gain a deep understanding of the methodologies and specialised tools used to conduct professional-grade security validation for Python applications.
++++
+[Read more or use this reference »](https://securitytesting.nocomplexity.com/)
+:::
+
+
+:::{grid-item-card}
 :link: https://lectures.scientific-python.org/index.html 
-{octicon}`stack;1em;caption-text` **Scientific Python Lectures**
+{octicon}`checklist;1em;caption-text` **Scientific Python Lectures**
 ^^^
 
 ```{image} https://lectures.scientific-python.org/_static/logo.png 
@@ -46,7 +60,7 @@ Tutorials on the scientific Python ecosystem: a quick introduction to central to
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`megaphone;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`smiley;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++

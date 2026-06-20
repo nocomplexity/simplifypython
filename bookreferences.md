@@ -1,4 +1,4 @@
-# Great (Free) Python Books
+# Python Books (Free)
 
 :::{note}
 This list consist of very **good** references. 

@@ -37,7 +37,7 @@ Use this Playbook to create better and faster security solutions for your securi
 :::
 
 :::{grid-item-card}
-:link: https://nocomplexity.com/documents/securitybydesign/intro.html
+:link: https://nocomplexity.github.io/securitybydesign/
 :link-type: url
 {octicon}`book;2em;caption-text` **Security By Design**        
 ^^^
@@ -63,11 +63,11 @@ A manifesto to revolutionize cybersecurity through simplification.
 
 
 :::{grid-item-card}
-:link: https://nocomplexity.com/documents/simplifysecurity/intro.html#
+:link: https://nocomplexity.github.io/pythonsecurity/
 :link-type: url
-{octicon}`book;2em;caption-text` **Simplify Security**        
+{octicon}`book;2em;caption-text` **Python Security Handbook**        
 ^^^
-Find open simple cyber solutions that work. Simplify cyber security to accelerate its effectiveness.
+Understand all the crucial aspects of Python security.
 :::
 
 

@@ -21,27 +21,15 @@ parts:
     - file: ppreferences
 
   - caption: Python Security
-    chapters:
-    - file: security/secintro
-    - file: security/fundamentals
-      sections:
-      - file: security/executionmodel
-      - file: security/threatmodel
-      - file: security/attacklandscape
-    - file: security/data_exfiltration_detection
-    - file: security/limitations_of_AI
-    - file: security/tools
-      sections:
-      - file: security/pip_audit
+    chapters: 
+    - url: https://nocomplexity.github.io/pythonsecurity/
+      title: Python Security Handbook
+    - url: https://securitytesting.nocomplexity.com/
+      title: Security Testing for Python
+    - url: https://nocomplexity.com/documents/codeaudit/intro.html
+      title: Python Code Audit - Python source code security analyzer 
   
-  - caption: Practical Python Security
-    chapters:
-    - file: security/openfile
-    - file: security/traversalattacks
-    - file: security/path_module
-    - file: security/assert_use
-    - file: security/howto_detect_data_egress
-    - file: security/managingsecrets
+
 
   - caption: Python Basics
     chapters:
@@ -75,6 +63,7 @@ parts:
       title: Overview    
     - file: bookreferences.md                
     - file: whylibraries    
+    - file: foundationsoverview    
     - url: https://pyviz.org/overviews/index.html
       title: Python visualization landscape
     - file: companies
