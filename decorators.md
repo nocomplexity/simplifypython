@@ -21,7 +21,6 @@ Python decorators are a powerful and convenient way to modify or extend the beha
 :class: tip, dropdown
 For in depth information see:
 [PEP 318 – Decorators for Functions and Methods](https://peps.python.org/pep-0318/)
-Admonition with a custom header sample.
 :::
 
 ## Key Concepts
