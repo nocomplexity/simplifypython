@@ -8,10 +8,10 @@
 
 :::{grid-item-card}
 :link: https://bdi475.github.io/textbook/ 
-{octicon}`hubot;1em;caption-text` **BDI 475**
+{octicon}`zap;1em;caption-text` **BDI 475**
 ^^^
 
-```{image} https://bdi475.github.io/textbook/build/site_logo-6a601c5f74c6f31ab067e6a207131bf8.svg 
+```{image} https://bdi475.github.io/textbook/build/site_logo-016037b9a1dc744fb512cee111dbd597.svg 
 :height: 100px 
 ```
 Online textbook for BDI 475 - Introduction to Data Analytics Applications in Business, a course offered by the University of Illinois Urbana-Champaign. The course is designed to introduce students to the fundamentals of data analytics and its applications in business contexts.
@@ -22,7 +22,7 @@ Online textbook for BDI 475 - Introduction to Data Analytics Applications in Bus
 
 :::{grid-item-card}
 :link: https://developers.google.com/edu/python 
-{octicon}`package;1em;caption-text` **Google's Python Class**
+{octicon}`briefcase;1em;caption-text` **Google's Python Class**
 ^^^
 Free online course book for people with a little bit of programming experience who want to learn Python
 +++
@@ -32,7 +32,7 @@ Free online course book for people with a little bit of programming experience w
 
 :::{grid-item-card}
 :link: https://securitytesting.nocomplexity.com/ 
-{octicon}`telescope;1em;caption-text` **Mastering Security Testing for Python**
+{octicon}`heart;1em;caption-text` **Mastering Security Testing for Python**
 ^^^
 
 ```{image} https://securitytesting.nocomplexity.com/build/ca_logo_small-77e6985c93090787021b23a80c7258a9.png 
@@ -46,7 +46,7 @@ In this course, you will gain a deep understanding of the methodologies and spec
 
 :::{grid-item-card}
 :link: https://lectures.scientific-python.org/index.html 
-{octicon}`checklist;1em;caption-text` **Scientific Python Lectures**
+{octicon}`cross-reference;1em;caption-text` **Scientific Python Lectures**
 ^^^
 
 ```{image} https://lectures.scientific-python.org/_static/logo.png 
@@ -60,7 +60,7 @@ Tutorials on the scientific Python ecosystem: a quick introduction to central to
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`smiley;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`thumbsup;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++

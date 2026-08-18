@@ -55,7 +55,10 @@ parts:
     - file: pythontips    
     - file: commonmistakes
 
-
+  - caption: Python Performance
+    chapters:
+    - file: performance/performance_intro
+    - file: performance/performance_references
 
   - caption: Great References  
     chapters:
