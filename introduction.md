@@ -1,5 +1,12 @@
 # Introduction
 
+```{image} /images/simplifypython_cover.jpg
+:alt: BookCover
+:width: 300px
+:align: center
+```
+
+
 Having Python programming skills is **essential** for architects, engineers, and managers in the IT industry, especially when working with data or ML/AI applications.
 
 Finding professionals with deep programming knowledge and solid experience is already challenging and will only get harder as AI, like LLM prompts, makes it easier for anyone to create software. While LLMs can generate answers, code, and snippets, a basic understanding of Python programming remains crucial in today's world.

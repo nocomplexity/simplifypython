@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://black.readthedocs.io/en/stable/ 
-{octicon}`hubot;1em;caption-text` **Black**
+{octicon}`smiley;1em;caption-text` **Black**
 ^^^
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. Defacto standard formatter for many projects.
 +++
@@ -18,7 +18,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 :::{grid-item-card}
 :link: https://docs.python.org 
-{octicon}`tools;1em;caption-text` **Official Python documentation**
+{octicon}`zap;1em;caption-text` **Official Python documentation**
 ^^^
 The source for the official documentation. Always up-to-date.
 +++
@@ -28,7 +28,7 @@ The source for the official documentation. Always up-to-date.
 
 :::{grid-item-card}
 :link: https://devguide.python.org/ 
-{octicon}`hubot;1em;caption-text` **Python Developer’s Guide**
+{octicon}`note;1em;caption-text` **Python Developer’s Guide**
 ^^^
 
 ```{image} https://devguide.python.org/_static/python-logo.svg 
@@ -42,7 +42,7 @@ This guide is a comprehensive resource for contributing to Python – for both n
 
 :::{grid-item-card}
 :link: https://peps.python.org/ 
-{octicon}`telescope;1em;caption-text` **Python Enhancement Proposals (PEPs)**
+{octicon}`note;1em;caption-text` **Python Enhancement Proposals (PEPs)**
 ^^^
 This PEP contains the index of all Python Enhancement Proposals (PEPs)
 +++
@@ -52,7 +52,7 @@ This PEP contains the index of all Python Enhancement Proposals (PEPs)
 
 :::{grid-item-card}
 :link: https://packaging.python.org/en/latest/ 
-{octicon}`pencil;1em;caption-text` **Python Packaging User Guide**
+{octicon}`hubot;1em;caption-text` **Python Packaging User Guide**
 ^^^
 A collection of tutorials and references to help you distribute and install Python packages with modern tools.
 +++
@@ -62,7 +62,7 @@ A collection of tutorials and references to help you distribute and install Pyth
 
 :::{grid-item-card}
 :link: https://docs.python.org/3/reference/index.html 
-{octicon}`tag;1em;caption-text` **The Python Language Reference**
+{octicon}`cross-reference;1em;caption-text` **The Python Language Reference**
 ^^^
 This reference manual describes the syntax and “core semantics” of the language.
 +++
@@ -72,7 +72,7 @@ This reference manual describes the syntax and “core semantics” of the langu
 
 :::{grid-item-card}
 :link: https://pyperformance.readthedocs.io/ 
-{octicon}`thumbsup;1em;caption-text` **The Python Performance Benchmark Suite**
+{octicon}`zap;1em;caption-text` **The Python Performance Benchmark Suite**
 ^^^
 The pyperformance project is intended to be an authoritative source of benchmarks for all Python implementations. The focus is on real-world benchmarks, rather than synthetic benchmarks, using whole applications when possible.
 +++
@@ -82,7 +82,7 @@ The pyperformance project is intended to be an authoritative source of benchmark
 
 :::{grid-item-card}
 :link: https://pip.pypa.io/en/stable/ 
-{octicon}`smiley;1em;caption-text` **pip**
+{octicon}`megaphone;1em;caption-text` **pip**
 ^^^
 pip is the package installer for Python.
 +++

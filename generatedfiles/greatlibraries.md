@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.optiland.org/ 
-{octicon}`megaphone;1em;caption-text` **Optiland**
+{octicon}`tools;1em;caption-text` **Optiland**
 ^^^
 
 ```{image} https://github.com/optiland/optiland/raw/master/docs/images/optiland.svg 
@@ -22,7 +22,7 @@ Optiland is a Python package for lens design and optimization. Model optical sys
 
 :::{grid-item-card}
 :link: https://scipy.org/ 
-{octicon}`megaphone;1em;caption-text` **SciPy**
+{octicon}`file;1em;caption-text` **SciPy**
 ^^^
 
 ```{image} https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg 

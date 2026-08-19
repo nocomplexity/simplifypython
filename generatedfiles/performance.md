@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://docs.exaloop.io/ 
-{octicon}`note;1em;caption-text` **Codon**
+{octicon}`light-bulb;1em;caption-text` **Codon**
 ^^^
 
 ```{image} https://docs.exaloop.io/img/codon-white.svg 
@@ -22,7 +22,7 @@ Codon is a high-performance Python implementation that compiles to native machin
 
 :::{grid-item-card}
 :link: http://cython.org 
-{octicon}`stack;1em;caption-text` **Cython**
+{octicon}`project;1em;caption-text` **Cython**
 ^^^
 
 ```{image} https://cython.readthedocs.io/en/latest/_static/cythonlogo.png 
@@ -35,7 +35,34 @@ Cython is an optimising static compiler for both the Python programming language
 
 
 :::{grid-item-card}
-{octicon}`pencil;1em;caption-text` **Numba**
+{octicon}`hubot;1em;caption-text` **Dask**
+^^^
+
+```{image} https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg 
+:height: 100px 
+```
+Easy Parallel Python that does what you need. See https://github.com/dask/dask
++++
+[Read more or use this reference »](https://www.dask.org/)
+:::
+
+
+:::{grid-item-card}
+:link: https://modin.readthedocs.io/en/stable/ 
+{octicon}`zap;1em;caption-text` **Modin**
+^^^
+
+```{image} https://github.com/modin-project/modin/raw/7c009c747caa90554607e30b9ac2bd1b190b8c7d/docs/img/MODIN_ver2_hrz.png?raw=true 
+:height: 100px 
+```
+Modin is a drop-in replacement for pandas. While pandas is single-threaded, Modin lets you instantly speed up your workflows by scaling pandas so it uses all of your cores. Modin works especially well on larger datasets, where pandas becomes painfully slow or runs out of memory. Also, Modin comes with the additional APIs to improve user experience.
++++
+[Read more or use this reference »](https://modin.readthedocs.io/en/stable/)
+:::
+
+
+:::{grid-item-card}
+{octicon}`tools;1em;caption-text` **Numba**
 ^^^
 
 ```{image} https://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg 
@@ -49,7 +76,7 @@ Numba is an open source JIT compiler that translates a subset of Python and NumP
 
 :::{grid-item-card}
 :link: https://pypy.org/index.html 
-{octicon}`megaphone;1em;caption-text` **PyPy**
+{octicon}`project;1em;caption-text` **PyPy**
 ^^^
 
 ```{image} https://pypy.org/images/pypy-logo.svg 
@@ -62,8 +89,21 @@ PyPy is a replacement for CPython. It is built using the RPython language that w
 
 
 :::{grid-item-card}
+{octicon}`checklist;1em;caption-text` **Ray**
+^^^
+
+```{image} https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png 
+:height: 100px 
+```
+Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI libraries for simplifying ML compute: Repro on https://github.com/ray-project/ray
++++
+[Read more or use this reference »](https://www.ray.io/)
+:::
+
+
+:::{grid-item-card}
 :link: https://rustpython.github.io/ 
-{octicon}`book;1em;caption-text` **RustPython**
+{octicon}`light-bulb;1em;caption-text` **RustPython**
 ^^^
 
 ```{image} https://rustpython.github.io/assets/img/rust-python-logo.svg 

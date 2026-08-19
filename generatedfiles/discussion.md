@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://discuss.python.org/ 
-{octicon}`file;1em;caption-text` **Official Python Community forums**
+{octicon}`tools;1em;caption-text` **Official Python Community forums**
 ^^^
 
 ```{image} https://us1.discourse-cdn.com/flex002/uploads/python1/original/1X/c7591c98caf3b31d4d9c6f322f41ed9d80a50800.png 
@@ -22,7 +22,7 @@ official Python Community forums
 
 :::{grid-item-card}
 :link: https://www.linkedin.com/groups/25827/ 
-{octicon}`megaphone;1em;caption-text` **Python Developers Community (moderated) Linkedin**
+{octicon}`verified;1em;caption-text` **Python Developers Community (moderated) Linkedin**
 ^^^
 One of the many Linked Python communities. Most spam marketing spam targeted to beginners.
 +++
@@ -32,7 +32,7 @@ One of the many Linked Python communities. Most spam marketing spam targeted to 
 
 :::{grid-item-card}
 :link: https://www.reddit.com/r/Python/ 
-{octicon}`pencil;1em;caption-text` **r/Python**
+{octicon}`heart;1em;caption-text` **r/Python**
 ^^^
 
 ```{image} https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1694722768 
