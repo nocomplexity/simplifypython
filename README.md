@@ -6,7 +6,7 @@ Finding professionals with deep programming knowledge and solid experience is al
 
 I created this publication for myself. Despite great open access books available, I missed a simple resources on Python that covers aspects behind the basics for people who are familiar with programming. Python is one of the tools in my toolbox for problem solving. Sharing is fun so maybe this publication is also of value for you. I advocate to avoid complexity when using Python to create solutions. But creating things simple takes a lot of effort.
 
-## HELP - Share this publication!
+## HELP! Share this publication
 
 This publication on is created and published on the Internet to be shared as much as possible!
 
@@ -37,7 +37,7 @@ This book is open source. Issues and pull requests are welcome.
 
 This publication is:
 
->(c) 2018-2025 [BM-Support.org](https://www.bm-support.org/) - [Maikel Mardjan](https://nocomplexity.com/) 
+>(c) 2018-2026 [BM-Support.org](https://www.bm-support.org/) - [Maikel Mardjan](https://nocomplexity.com/) 
 >This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Third-party product names may be the trademarks of their respective owners.
 
 See [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) for the full license text. 

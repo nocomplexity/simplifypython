@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://www.anaconda.com/ 
-{octicon}`file;1em;caption-text` **Anaconda**
+{octicon}`hubot;1em;caption-text` **Anaconda**
 ^^^
 Anaconda sits at the center of the AI revolution. We provide data science tools, MLOps, and data & model management to empower our customers and community with AI capabilities to propel their projects forward.
 +++
@@ -18,7 +18,7 @@ Anaconda sits at the center of the AI revolution. We provide data science tools,
 
 :::{grid-item-card}
 :link: https://astral.sh/ 
-{octicon}`project;1em;caption-text` **Astral**
+{octicon}`cross-reference;1em;caption-text` **Astral**
 ^^^
 Next-gen Python tooling
 +++

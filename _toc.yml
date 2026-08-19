@@ -62,6 +62,7 @@ parts:
 
   - caption: Great References  
     chapters:
+    - file: references/psf_docs
     - file: generatedfiles/overview
       title: Overview    
     - file: bookreferences.md                

@@ -2,11 +2,17 @@
 
 This publication is:
 
->(c) 2018-2025 BM-Support.org - [Maikel Mardjan](https://nocomplexity.com/) 
+
+>![cc-by-logo](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) (c) 2018-2026 BM-Support.org - [Maikel Mardjan](https://nocomplexity.com/) 
 >This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Third-party product names may be the trademarks of their respective owners.
 
 See [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) for the full license text. 
 
+> <font face="monospace">
+>All trademarks, trade names, product names and logos appearing in this report are the property of their respective owners.
+>
+>While the publisher and the author(s) have used good faith efforts to ensure that the information and instructions contained in this work are accurate, the publisher and the author disclaim all responsibility for errors or omissions, including without limitation responsibility for damages resulting from the use of or reliance on this work. Use of the information and instructions contained in this work is at your own risk.
+> </font>
 
 ## Using and reusing this document
 
