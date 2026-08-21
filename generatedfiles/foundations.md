@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://numfocus.org/ 
-{octicon}`tag;1em;caption-text` **NumFOCUS**
+{octicon}`zap;1em;caption-text` **NumFOCUS**
 ^^^
 
 ```{image} https://numfocus.org/wp-content/uploads/2017/03/numfocusweblogo_orig-1.png 
@@ -22,7 +22,7 @@ Better tools to build a better world. NumFOCUS is to promote open practices in r
 
 :::{grid-item-card}
 :link: https://projectpythia.org/ 
-{octicon}`hubot;1em;caption-text` **Project Pythia**
+{octicon}`note;1em;caption-text` **Project Pythia**
 ^^^
 
 ```{image} https://avatars.githubusercontent.com/u/75807555?s=200&v=4 
@@ -36,7 +36,7 @@ An education and training hub for the geoscientific Python community
 
 :::{grid-item-card}
 :link: https://pytorch.org/ 
-{octicon}`pencil;1em;caption-text` **PyTorch**
+{octicon}`briefcase;1em;caption-text` **PyTorch**
 ^^^
 
 ```{image} https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.png 
@@ -49,7 +49,7 @@ Tensors and Dynamic neural networks in Python with strong GPU acceleration. The 
 
 
 :::{grid-item-card}
-{octicon}`bookmark;1em;caption-text` **WheelNext**
+{octicon}`checklist;1em;caption-text` **WheelNext**
 ^^^
 WheelNext is an open-source initiative (https://github.com/wheelnext & https://wheelnext.dev/) aiming to improve the user experience in the Python packaging ecosystem, specifically around the scientific computing and machine/deep learning space. We also anticipate benefits in other domains that heavily rely on performance of compiled Python extension modules - the benefit of utilizing one's hardware more optimally is not exclusive to any single domain.
 +++
@@ -73,7 +73,7 @@ A Python toolbox for analysing animal body movements across space and time
 
 :::{grid-item-card}
 :link: https://www.pyopensci.org/python-package-guide/index.html 
-{octicon}`package;1em;caption-text` **pyOpenSci**
+{octicon}`megaphone;1em;caption-text` **pyOpenSci**
 ^^^
 Community that supports free and open Python tools for processing scientific data. 
 +++

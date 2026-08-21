@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://bdi475.github.io/textbook/ 
-{octicon}`pencil;1em;caption-text` **BDI 475**
+{octicon}`thumbsup;1em;caption-text` **BDI 475**
 ^^^
 
 ```{image} https://bdi475.github.io/textbook/build/site_logo-016037b9a1dc744fb512cee111dbd597.svg 
@@ -22,7 +22,7 @@ Online textbook for BDI 475 - Introduction to Data Analytics Applications in Bus
 
 :::{grid-item-card}
 :link: https://developers.google.com/edu/python 
-{octicon}`pencil;1em;caption-text` **Google's Python Class**
+{octicon}`verified;1em;caption-text` **Google's Python Class**
 ^^^
 Free online course book for people with a little bit of programming experience who want to learn Python
 +++
@@ -32,7 +32,7 @@ Free online course book for people with a little bit of programming experience w
 
 :::{grid-item-card}
 :link: https://securitytesting.nocomplexity.com/ 
-{octicon}`check-circle;1em;caption-text` **Mastering Security Testing for Python**
+{octicon}`megaphone;1em;caption-text` **Mastering Security Testing for Python**
 ^^^
 
 ```{image} https://securitytesting.nocomplexity.com/build/ca_logo_small-77e6985c93090787021b23a80c7258a9.png 
@@ -46,7 +46,7 @@ In this course, you will gain a deep understanding of the methodologies and spec
 
 :::{grid-item-card}
 :link: https://lectures.scientific-python.org/index.html 
-{octicon}`light-bulb;1em;caption-text` **Scientific Python Lectures**
+{octicon}`thumbsup;1em;caption-text` **Scientific Python Lectures**
 ^^^
 
 ```{image} https://lectures.scientific-python.org/_static/logo.png 
@@ -60,7 +60,7 @@ Tutorials on the scientific Python ecosystem: a quick introduction to central to
 
 :::{grid-item-card}
 :link: https://goodresearch.dev/ 
-{octicon}`zap;1em;caption-text` **The Good Research Code Handbook**
+{octicon}`heart;1em;caption-text` **The Good Research Code Handbook**
 ^^^
 Handbook is for all who do a lot of programming as part of their research. It will teach you, in a practical manner, how to organize your code so that it is easy to understand and works reliably.
 +++

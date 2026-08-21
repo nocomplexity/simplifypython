@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://docs.exaloop.io/ 
-{octicon}`light-bulb;1em;caption-text` **Codon**
+{octicon}`stack;1em;caption-text` **Codon**
 ^^^
 
 ```{image} https://docs.exaloop.io/img/codon-white.svg 
@@ -22,7 +22,7 @@ Codon is a high-performance Python implementation that compiles to native machin
 
 :::{grid-item-card}
 :link: http://cython.org 
-{octicon}`project;1em;caption-text` **Cython**
+{octicon}`package;1em;caption-text` **Cython**
 ^^^
 
 ```{image} https://cython.readthedocs.io/en/latest/_static/cythonlogo.png 
@@ -35,7 +35,7 @@ Cython is an optimising static compiler for both the Python programming language
 
 
 :::{grid-item-card}
-{octicon}`hubot;1em;caption-text` **Dask**
+{octicon}`pencil;1em;caption-text` **Dask**
 ^^^
 
 ```{image} https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg 
@@ -49,7 +49,7 @@ Easy Parallel Python that does what you need. See https://github.com/dask/dask
 
 :::{grid-item-card}
 :link: https://modin.readthedocs.io/en/stable/ 
-{octicon}`zap;1em;caption-text` **Modin**
+{octicon}`verified;1em;caption-text` **Modin**
 ^^^
 
 ```{image} https://github.com/modin-project/modin/raw/7c009c747caa90554607e30b9ac2bd1b190b8c7d/docs/img/MODIN_ver2_hrz.png?raw=true 
@@ -62,7 +62,7 @@ Modin is a drop-in replacement for pandas. While pandas is single-threaded, Modi
 
 
 :::{grid-item-card}
-{octicon}`tools;1em;caption-text` **Numba**
+{octicon}`smiley;1em;caption-text` **Numba**
 ^^^
 
 ```{image} https://numba.pydata.org/_static/numba-blue-horizontal-rgb.svg 
@@ -76,7 +76,7 @@ Numba is an open source JIT compiler that translates a subset of Python and NumP
 
 :::{grid-item-card}
 :link: https://pypy.org/index.html 
-{octicon}`project;1em;caption-text` **PyPy**
+{octicon}`check-circle;1em;caption-text` **PyPy**
 ^^^
 
 ```{image} https://pypy.org/images/pypy-logo.svg 
@@ -89,7 +89,7 @@ PyPy is a replacement for CPython. It is built using the RPython language that w
 
 
 :::{grid-item-card}
-{octicon}`checklist;1em;caption-text` **Ray**
+{octicon}`package;1em;caption-text` **Ray**
 ^^^
 
 ```{image} https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png 
@@ -103,7 +103,7 @@ Ray is a unified framework for scaling AI and Python applications. Ray consists 
 
 :::{grid-item-card}
 :link: https://rustpython.github.io/ 
-{octicon}`light-bulb;1em;caption-text` **RustPython**
+{octicon}`stack;1em;caption-text` **RustPython**
 ^^^
 
 ```{image} https://rustpython.github.io/assets/img/rust-python-logo.svg 

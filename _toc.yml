@@ -61,10 +61,10 @@ parts:
     - file: performance/performance_references
 
   - caption: Great References  
-    chapters:
-    - file: references/psf_docs
+    chapters:    
     - file: generatedfiles/overview
-      title: Overview    
+      title: Overview(Everything)    
+    - file: references/psf_docs
     - file: bookreferences.md                
     - file: whylibraries    
     - file: foundationsoverview    
