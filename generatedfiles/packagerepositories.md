@@ -8,7 +8,7 @@
 
 :::{grid-item-card}
 :link: https://pepy.tech/ 
-{octicon}`light-bulb;1em;caption-text` **PyPI Package Statistics & Analytics**
+{octicon}`briefcase;1em;caption-text` **PyPI Package Statistics & Analytics**
 ^^^
 
 ```{image} https://github.com/psincraian/pepy/raw/master/docs/logo.png 
@@ -22,7 +22,7 @@ pepy is a site to get statistics information about any Python package.
 
 :::{grid-item-card}
 :link: https://pypistats.org/ 
-{octicon}`cross-reference;1em;caption-text` **PyPI Stats**
+{octicon}`thumbsup;1em;caption-text` **PyPI Stats**
 ^^^
 The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads with analytics dashboard.
 +++
@@ -32,7 +32,7 @@ The best FOSS tool for PyPI statistics. It offers per package the PyPI downloads
 
 :::{grid-item-card}
 :link: https://www.piwheels.org/ 
-{octicon}`thumbsup;1em;caption-text` **Python Wheels for the Raspberry Pi**
+{octicon}`report;1em;caption-text` **Python Wheels for the Raspberry Pi**
 ^^^
 piwheels is a Python package repository providing Arm platform wheels (pre-compiled binary Python packages) specifically for the Raspberry Pi,
 +++
@@ -42,7 +42,7 @@ piwheels is a Python package repository providing Arm platform wheels (pre-compi
 
 :::{grid-item-card}
 :link: https://pypi.org/ 
-{octicon}`note;1em;caption-text` **Python packages**
+{octicon}`verified;1em;caption-text` **Python packages**
 ^^^
 The Python Package Index (PyPI) is the defacto standard repository of software for the Python programming language.
 +++
@@ -52,7 +52,7 @@ The Python Package Index (PyPI) is the defacto standard repository of software f
 
 :::{grid-item-card}
 :link: https://conda-forge.org/ 
-{octicon}`telescope;1em;caption-text` **conda-forge**
+{octicon}`checklist;1em;caption-text` **conda-forge**
 ^^^
 Community-led recipes, infrastructure and distributions for conda.
 +++

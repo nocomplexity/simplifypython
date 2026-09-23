@@ -7,7 +7,17 @@
 :gutter: 2
 
 :::{grid-item-card}
-{octicon}`tag;1em;caption-text` **Foundations of Data Science with Python**
+:link: https://inferentialthinking.com/ 
+{octicon}`stack;1em;caption-text` **Computational and Inferential Thinking: The Foundations of Data Science**
+^^^
+2nd Edition by Ani Adhikari, John DeNero, David Wagner. This text was originally developed for the UC Berkeley course Data 8: Foundations of Data Science.
++++
+[Read more or use this reference »](https://inferentialthinking.com/)
+:::
+
+
+:::{grid-item-card}
+{octicon}`cross-reference;1em;caption-text` **Foundations of Data Science with Python**
 ^^^
 
 ```{image} https://github.com/jmshea/Foundations-of-Data-Science-with-Python/raw/main/images/3d-book.png 
@@ -21,7 +31,7 @@ Learn data visualization, statistics, probability, and dimensionality reduction 
 
 :::{grid-item-card}
 :link: https://learningds.org/intro.html 
-{octicon}`tag;1em;caption-text` **Learning Data Science**
+{octicon}`thumbsup;1em;caption-text` **Learning Data Science**
 ^^^
 Principles and Techniques of Data Science: This open book is tailored for ML! (Python numpy, classification  etc)
 +++

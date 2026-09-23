@@ -7,7 +7,7 @@
 :gutter: 2
 
 :::{grid-item-card}
-{octicon}`file;1em;caption-text` **Coding Patterns for Python Extensions**
+{octicon}`thumbsup;1em;caption-text` **Coding Patterns for Python Extensions**
 ^^^
 notes on using Cython to increase the performance of Python code. Repository on https://github.com/paulross/PythonExtensionPatterns
 +++
@@ -17,7 +17,7 @@ notes on using Cython to increase the performance of Python code. Repository on 
 
 :::{grid-item-card}
 :link: https://bloomberg.github.io/memray/ 
-{octicon}`tag;1em;caption-text` **Memray**
+{octicon}`cross-reference;1em;caption-text` **Memray**
 ^^^
 
 ```{image} https://raw.githubusercontent.com/bloomberg/memray/main/docs/_static/images/logo.png 
