@@ -9,9 +9,8 @@
 Python skills are essential for architects, engineers, and managers working with data, ML, or AI.  
 While LLMs can generate code in seconds, they can’t replace the deep understanding needed to judge, debug, and simplify that code. True problem-solving still requires solid foundations.
 
-This book was written for people who are already comfortable with programming but want a **clear, no-nonsense resource** that goes beyond the absolute basics — without drowning in complexity.
+This book is written for people who are already comfortable with programming but want a **clear, no-nonsense resource** that goes beyond the absolute basics — without drowning in complexity.
 
-> Creating simple solutions is hard. This book is my attempt to make it easier.
 
 **Read the book online:**  
 [https://nocomplexity.com/documents/pythonbook/introduction.html](https://nocomplexity.com/documents/pythonbook/introduction.html)
@@ -56,8 +55,7 @@ https://nocomplexity.com/documents/pythonbook/
 This book is open source. Issues and pull requests are very welcome!
 
 **Know a great open-access Python book?**  
-I’d love to hear about it!  
-Please tip me by [opening an issue](https://github.com/nocomplexity/simplifypython/issues).
+I’d love to hear about it! Please tip me by [opening an issue](https://github.com/nocomplexity/simplifypython/issues).
 
 > **Important**  
 > Only open-access references (CC-BY or equivalent) are included in the [references section](https://nocomplexity.com/documents/pythonbook/generatedfiles/overview.html).
